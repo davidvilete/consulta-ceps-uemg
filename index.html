@@ -1,0 +1,278 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Landing Page Canônica para Consulta de CEPs e Logradouros — Curso de Bacharelado em Sistemas de Informação da UEMG Unidade Acadêmica de Carangola.">
+  <title>Consulta de CEPs — Carangola/MG | Sistemas de Informação UEMG</title>
+  <link rel="icon" type="image/png" href="./assets/logo-si.png">
+  <link rel="stylesheet" href="./css/styles.css">
+</head>
+<body>
+
+  <!-- 3.1. Cabeçalho Institucional (Header) -->
+  <header class="main-header">
+    <div class="header-container">
+      <div class="brand">
+        <img
+          src="./assets/logo-si.png"
+          alt="Logotipo do Curso de Sistemas de Informação da UEMG Carangola"
+          class="brand-logo"
+          width="52"
+          height="52"
+        >
+        <div class="brand-text">
+          <span class="brand-course">Sistemas de Informação</span>
+          <span class="brand-institution">UEMG &bull; Unidade Acadêmica de Carangola</span>
+        </div>
+      </div>
+
+      <div class="header-meta" aria-label="Município da base de dados">
+        <span class="badge-city" id="header-city-badge">Carangola / MG</span>
+      </div>
+    </div>
+  </header>
+
+  <main class="main-content">
+    <!-- 3.2. Seção de Destaque (Hero) -->
+    <section class="hero-section" aria-labelledby="hero-title">
+      <div class="hero-overlay">
+        <div class="hero-container">
+          <p class="hero-kicker">Base Oficial Consolidada &bull; <span id="hero-city-tag">Carangola - MG</span></p>
+          <h1 id="hero-title" class="hero-title">
+            Consulta Rápida de CEPs de <span id="hero-city-name">Carangola</span>
+          </h1>
+          <p class="hero-subtitle">
+            Pesquise Ruas, Avenidas e Praças do município com filtragem instantânea local, alta precisão e zero latência.
+          </p>
+        </div>
+      </div>
+    </section>
+
+    <!-- 3.3. Área Central de Busca e Exibição de Resultados -->
+    <section class="search-section" aria-labelledby="search-heading">
+      <div class="search-card">
+        <div class="search-card-header">
+          <h2 id="search-heading" class="search-heading">Localizar Endereço e CEP</h2>
+          <p class="search-helper">A busca automática é acionada a partir de <strong>3 caracteres</strong> digitados.</p>
+        </div>
+
+        <div class="search-combobox-wrapper">
+          <label for="search-input" class="search-label">Nome do logradouro (Rua, Avenida ou Praça):</label>
+          <div class="input-group">
+            <svg class="search-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" aria-hidden="true">
+              <circle cx="11" cy="11" r="8"></circle>
+              <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+            </svg>
+            <input
+              type="text"
+              id="search-input"
+              class="search-input"
+              placeholder="Ex.: Praça dos Estudantes, Pedro Nolasco, Coronel Maximiano..."
+              autocomplete="off"
+              spellcheck="false"
+              role="combobox"
+              aria-autocomplete="list"
+              aria-controls="suggestions-list"
+              aria-expanded="false"
+            >
+            <button
+              id="clear-btn"
+              type="button"
+              class="clear-btn"
+              aria-label="Limpar busca"
+              title="Limpar campo"
+              hidden
+            >&times;</button>
+          </div>
+
+          <!-- Menu Suspenso / Autocomplete -->
+          <ul
+            id="suggestions-list"
+            class="suggestions-list"
+            role="listbox"
+            aria-label="Sugestões de logradouros encontrados"
+            hidden
+          ></ul>
+        </div>
+
+        <p id="status-message" class="status-message" role="status" aria-live="polite">
+          Carregando base de logradouros...
+        </p>
+      </div>
+
+      <!-- Exibição dos Dados Completos e Destaque ao CEP -->
+      <section
+        id="results-section"
+        class="results-section"
+        aria-live="polite"
+        aria-label="Detalhes do logradouro selecionado"
+      ></section>
+    </section>
+  </main>
+
+  <!-- 3.4. Rodapé (Footer) -->
+  <footer class="main-footer">
+    <div class="footer-container">
+      <div class="footer-logos-group">
+        <img
+          src="./assets/logo-si.png"
+          alt="Logotipo do Curso de Sistemas de Informação — UEMG Carangola"
+          class="footer-logo"
+          width="54"
+          height="54"
+        >
+        <a
+          href="https://www.uemg.br/carangola"
+          target="_blank"
+          rel="noopener noreferrer"
+          class="footer-uemg-link"
+          aria-label="Acessar página oficial da UEMG Unidade Acadêmica de Carangola (abre em nova aba)"
+          title="Página oficial da UEMG Carangola"
+        >
+          <img
+            src="./assets/logo-uemg.png"
+            alt="Logotipo da UEMG Unidade Acadêmica de Carangola"
+            class="footer-logo footer-logo-uemg"
+            width="54"
+            height="54"
+          >
+        </a>
+        <div class="footer-institutional-text">
+          <strong>Universidade do Estado de Minas Gerais (UEMG)</strong>
+          <span>Unidade Acadêmica de Carangola &bull; Bacharelado em Sistemas de Informação</span>
+        </div>
+      </div>
+
+      <nav class="footer-nav" aria-label="Informações institucionais e legais">
+        <button type="button" class="modal-trigger" data-modal="modal-sobre" aria-haspopup="dialog">Sobre</button>
+        <span class="footer-divider" aria-hidden="true">&bull;</span>
+        <button type="button" class="modal-trigger" data-modal="modal-termos" aria-haspopup="dialog">Termos de Uso</button>
+        <span class="footer-divider" aria-hidden="true">&bull;</span>
+        <button type="button" class="modal-trigger" data-modal="modal-privacidade" aria-haspopup="dialog">Privacidade</button>
+      </nav>
+    </div>
+
+    <div class="footer-bottom">
+      <small>&copy; 2026 Curso de Sistemas de Informação &mdash; UEMG Unidade Carangola. Projeto acadêmico sem fins lucrativos.</small>
+    </div>
+  </footer>
+
+  <!-- 3.4 & Anexo I. Janelas Flutuantes Acessíveis (Modais) -->
+
+  <!-- Modal A: Sobre -->
+  <dialog id="modal-sobre" class="app-modal" aria-labelledby="modal-sobre-title">
+    <div class="modal-box">
+      <header class="modal-header">
+        <h3 id="modal-sobre-title">Sobre o Projeto</h3>
+        <button type="button" class="modal-close" aria-label="Fechar janela Sobre">&times;</button>
+      </header>
+      <div class="modal-body">
+        <h4>Apresentação e Finalidade Pedagógica</h4>
+        <p>
+          Esta landing page foi desenvolvida como atividade prática de Desenvolvimento Web na disciplina de
+          <strong>Programação 2</strong>, destinada à turma do <strong>2º Período</strong> do curso de
+          <strong>Bacharelado em Sistemas de Informação</strong> da
+          <strong>Universidade do Estado de Minas Gerais (UEMG) &mdash; Unidade Acadêmica de Carangola</strong>.
+        </p>
+        <p>
+          O projeto tem como finalidade pedagógica consolidar os fundamentos essenciais da programação front-end
+          utilizando arquitetura 100% Vanilla (HTML5 Semântico, CSS3 moderno Mobile-First e JavaScript puro),
+          manipulando o DOM de forma reativa e consumindo dados reais higienizados no formato JSON via <code>fetch</code> local.
+        </p>
+
+        <hr>
+
+        <h4>Equipe de Desenvolvimento</h4>
+        <ul class="team-list">
+          <li>
+            <strong>Davi da Silva Fonseca Vilete</strong> &mdash;
+            <a href="https://github.com/davidvilete" target="_blank" rel="noopener noreferrer">GitHub</a>
+            &bull;
+            <a href="https://www.linkedin.com/in/davi-vilete-434bb6292" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+          </li>
+        </ul>
+
+        <hr>
+
+        <h4>Nota de Transparência sobre o Uso de IA</h4>
+        <p>
+          Em consonância com os princípios de integridade acadêmica e transparência tecnológica, declara-se que
+          ferramentas de Inteligência Artificial generativa <strong>foram utilizadas</strong> durante o desenvolvimento deste projeto.
+          Foram aplicadas como suporte na estruturação do script de consolidação e deduplicação da base ViaCEP,
+          na depuração de rotinas de filtragem acento-insensível do JavaScript e na revisão sintática de responsividade e
+          acessibilidade do HTML5/CSS3, sendo toda a arquitetura, lógica de negócios e validação final revisadas e auditadas pelo autor.
+        </p>
+      </div>
+      <footer class="modal-footer">
+        <button type="button" class="modal-btn-secondary modal-close-btn">Fechar</button>
+      </footer>
+    </div>
+  </dialog>
+
+  <!-- Modal B: Termos de Uso -->
+  <dialog id="modal-termos" class="app-modal" aria-labelledby="modal-termos-title">
+    <div class="modal-box">
+      <header class="modal-header">
+        <h3 id="modal-termos-title">Termos de Uso</h3>
+        <button type="button" class="modal-close" aria-label="Fechar janela Termos de Uso">&times;</button>
+      </header>
+      <div class="modal-body">
+        <ol class="legal-list">
+          <li>
+            <strong>Finalidade Acadêmica:</strong> Esta aplicação web possui finalidade exclusivamente didática e pedagógica,
+            vinculada às atividades formativas do curso de Sistemas de Informação da UEMG Unidade Carangola.
+          </li>
+          <li>
+            <strong>Natureza dos Dados:</strong> As informações de logradouros e Códigos de Endereçamento Postal (CEP) foram
+            extraídas de bases públicas (<a href="https://viacep.com.br/" target="_blank" rel="noopener noreferrer">ViaCEP</a>)
+            e são apresentadas em caráter meramente informativo, sem garantias de atualização cadastral em tempo real.
+          </li>
+          <li>
+            <strong>Isenção de Responsabilidade:</strong> Os autores e a instituição não se responsabilizam por eventuais
+            divergências cadastrais perante a Empresa Brasileira de Correios e Telégrafos ou por utilizações civis e
+            comerciais indevidas desta plataforma.
+          </li>
+        </ol>
+      </div>
+      <footer class="modal-footer">
+        <button type="button" class="modal-btn-secondary modal-close-btn">Fechar</button>
+      </footer>
+    </div>
+  </dialog>
+
+  <!-- Modal C: Política de Privacidade -->
+  <dialog id="modal-privacidade" class="app-modal" aria-labelledby="modal-privacidade-title">
+    <div class="modal-box">
+      <header class="modal-header">
+        <h3 id="modal-privacidade-title">Política de Privacidade</h3>
+        <button type="button" class="modal-close" aria-label="Fechar janela Política de Privacidade">&times;</button>
+      </header>
+      <div class="modal-body">
+        <ol class="legal-list">
+          <li>
+            <strong>Não Coleta de Dados Pessoais:</strong> Esta landing page não coleta, não solicita, não processa e não
+            armazena quaisquer dados de identificação pessoal, cookies de rastreamento ou dados sensíveis dos visitantes.
+          </li>
+          <li>
+            <strong>Execução Estritamente Local:</strong> As consultas aos logradouros e CEPs são filtradas localmente na
+            memória do navegador do usuário a partir de um arquivo estático (<code>./data/ceps.json</code>), inexistindo
+            comunicação de telemetria, rastreamento ou envio de buscas a servidores externos.
+          </li>
+          <li>
+            <strong>Conformidade Legal:</strong> Esta aplicação segue os princípios fundamentais da Lei Geral de Proteção
+            de Dados Pessoais (LGPD &mdash; Lei Federal nº 13.709/2018), pautando-se na minimização absoluta de dados e na
+            transparência ao usuário.
+          </li>
+        </ol>
+      </div>
+      <footer class="modal-footer">
+        <button type="button" class="modal-btn-secondary modal-close-btn">Fechar</button>
+      </footer>
+    </div>
+  </dialog>
+
+  <script src="./js/app.js"></script>
+</body>
+</html>
+

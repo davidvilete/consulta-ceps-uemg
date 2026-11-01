@@ -1,0 +1,830 @@
+[
+  {
+    "cep": "36802-230",
+    "logradouro": "Avenida Aeroporto",
+    "complemento": "",
+    "unidade": "",
+    "bairro": "Aeroporto",
+    "localidade": "Carangola",
+    "uf": "MG"
+  },
+  {
+    "cep": "36801-116",
+    "logradouro": "Avenida Capitão Antônio Carlos de Souza",
+    "complemento": "",
+    "unidade": "",
+    "bairro": "Ouro Verde",
+    "localidade": "Carangola",
+    "uf": "MG"
+  },
+  {
+    "cep": "36801-140",
+    "logradouro": "Avenida Capitão Antônio Carlos de Souza",
+    "complemento": "",
+    "unidade": "",
+    "bairro": "Santa Maria",
+    "localidade": "Carangola",
+    "uf": "MG"
+  },
+  {
+    "cep": "36802-106",
+    "logradouro": "Avenida das Nações",
+    "complemento": "",
+    "unidade": "",
+    "bairro": "Santa Emília",
+    "localidade": "Carangola",
+    "uf": "MG"
+  },
+  {
+    "cep": "36802-026",
+    "logradouro": "Avenida dos Expedicionários",
+    "complemento": "",
+    "unidade": "",
+    "bairro": "Coroado",
+    "localidade": "Carangola",
+    "uf": "MG"
+  },
+  {
+    "cep": "36802-144",
+    "logradouro": "Avenida Doutor José Garcia de Freitas",
+    "complemento": "",
+    "unidade": "",
+    "bairro": "Eldorado",
+    "localidade": "Carangola",
+    "uf": "MG"
+  },
+  {
+    "cep": "36802-046",
+    "logradouro": "Avenida Doutor Pedro Nolasco",
+    "complemento": "",
+    "unidade": "",
+    "bairro": "Coroado",
+    "localidade": "Carangola",
+    "uf": "MG"
+  },
+  {
+    "cep": "36802-010",
+    "logradouro": "Avenida Doutor Waldemar Soares",
+    "complemento": "",
+    "unidade": "",
+    "bairro": "Coroado",
+    "localidade": "Carangola",
+    "uf": "MG"
+  },
+  {
+    "cep": "36802-278",
+    "logradouro": "Avenida Francisco Homem Sobrinho",
+    "complemento": "",
+    "unidade": "",
+    "bairro": "Floresta",
+    "localidade": "Carangola",
+    "uf": "MG"
+  },
+  {
+    "cep": "36805-002",
+    "logradouro": "Avenida Juca de Souza",
+    "complemento": "",
+    "unidade": "",
+    "bairro": "Varginha (Lacerdinha)",
+    "localidade": "Carangola",
+    "uf": "MG"
+  },
+  {
+    "cep": "36805-040",
+    "logradouro": "Avenida Juca de Souza",
+    "complemento": "",
+    "unidade": "",
+    "bairro": "Lacerdina",
+    "localidade": "Carangola",
+    "uf": "MG"
+  },
+  {
+    "cep": "36803-120",
+    "logradouro": "Avenida Machado de Assis",
+    "complemento": "",
+    "unidade": "",
+    "bairro": "Triângulo",
+    "localidade": "Carangola",
+    "uf": "MG"
+  },
+  {
+    "cep": "36800-001",
+    "logradouro": "Avenida Pico da Bandeira",
+    "complemento": "",
+    "unidade": "",
+    "bairro": "Centro",
+    "localidade": "Carangola",
+    "uf": "MG"
+  },
+  {
+    "cep": "36802-120",
+    "logradouro": "Avenida Presbiteriana",
+    "complemento": "",
+    "unidade": "",
+    "bairro": "Eldorado",
+    "localidade": "Carangola",
+    "uf": "MG"
+  },
+  {
+    "cep": "36805-042",
+    "logradouro": "Avenida Professor Pedro Amaral",
+    "complemento": "",
+    "unidade": "",
+    "bairro": "Lacerdina",
+    "localidade": "Carangola",
+    "uf": "MG"
+  },
+  {
+    "cep": "36802-222",
+    "logradouro": "Avenida Raulina Grossi Araújo",
+    "complemento": "",
+    "unidade": "",
+    "bairro": "Novos Tempos",
+    "localidade": "Carangola",
+    "uf": "MG"
+  },
+  {
+    "cep": "36803-028",
+    "logradouro": "Avenida Wady Mergh",
+    "complemento": "",
+    "unidade": "",
+    "bairro": "Triângulo",
+    "localidade": "Carangola",
+    "uf": "MG"
+  },
+  {
+    "cep": "36800-188",
+    "logradouro": "Praça Agnaldo Chevrand",
+    "complemento": "",
+    "unidade": "",
+    "bairro": "Chevrand",
+    "localidade": "Carangola",
+    "uf": "MG"
+  },
+  {
+    "cep": "36800-076",
+    "logradouro": "Praça Coronel João Marcelino",
+    "complemento": "",
+    "unidade": "",
+    "bairro": "Centro",
+    "localidade": "Carangola",
+    "uf": "MG"
+  },
+  {
+    "cep": "36800-078",
+    "logradouro": "Praça Coronel Maximiano",
+    "complemento": "",
+    "unidade": "",
+    "bairro": "Centro",
+    "localidade": "Carangola",
+    "uf": "MG"
+  },
+  {
+    "cep": "36800-959",
+    "logradouro": "Praça Coronel Maximiano",
+    "complemento": "36",
+    "unidade": "AC Carangola",
+    "bairro": "Centro",
+    "localidade": "Carangola",
+    "uf": "MG"
+  },
+  {
+    "cep": "36800-970",
+    "logradouro": "Praça Coronel Maximiano",
+    "complemento": "36",
+    "unidade": "AC Carangola",
+    "bairro": "Centro",
+    "localidade": "Carangola",
+    "uf": "MG"
+  },
+  {
+    "cep": "36800-973",
+    "logradouro": "Praça Coronel Maximiano",
+    "complemento": "36",
+    "unidade": "UD Carangola",
+    "bairro": "Centro",
+    "localidade": "Carangola",
+    "uf": "MG"
+  },
+  {
+    "cep": "36802-086",
+    "logradouro": "Praça dos Estudantes",
+    "complemento": "",
+    "unidade": "",
+    "bairro": "Santa Emília",
+    "localidade": "Carangola",
+    "uf": "MG"
+  },
+  {
+    "cep": "36803-038",
+    "logradouro": "Praça dos Ferroviários",
+    "complemento": "",
+    "unidade": "",
+    "bairro": "Triângulo",
+    "localidade": "Carangola",
+    "uf": "MG"
+  },
+  {
+    "cep": "36800-110",
+    "logradouro": "Praça Doutor Jonas de Faria Castro",
+    "complemento": "",
+    "unidade": "",
+    "bairro": "Centro",
+    "localidade": "Carangola",
+    "uf": "MG"
+  },
+  {
+    "cep": "36801-102",
+    "logradouro": "Praça Edward de Souza Pedrosa",
+    "complemento": "",
+    "unidade": "",
+    "bairro": "Ouro Verde",
+    "localidade": "Carangola",
+    "uf": "MG"
+  },
+  {
+    "cep": "36805-072",
+    "logradouro": "Praça Firmino Antunes Vieira",
+    "complemento": "",
+    "unidade": "",
+    "bairro": "Lacerdina",
+    "localidade": "Carangola",
+    "uf": "MG"
+  },
+  {
+    "cep": "36803-164",
+    "logradouro": "Praça Francisco Chagas Alvim",
+    "complemento": "",
+    "unidade": "",
+    "bairro": "Triângulo",
+    "localidade": "Carangola",
+    "uf": "MG"
+  },
+  {
+    "cep": "36800-106",
+    "logradouro": "Praça Governador Valadares",
+    "complemento": "",
+    "unidade": "",
+    "bairro": "Centro",
+    "localidade": "Carangola",
+    "uf": "MG"
+  },
+  {
+    "cep": "36801-082",
+    "logradouro": "Praça José Toledo Lanzarot",
+    "complemento": "",
+    "unidade": "",
+    "bairro": "Santo Onofre",
+    "localidade": "Carangola",
+    "uf": "MG"
+  },
+  {
+    "cep": "36802-164",
+    "logradouro": "Praça Juscelino Kubitschek",
+    "complemento": "",
+    "unidade": "",
+    "bairro": "Eldorado",
+    "localidade": "Carangola",
+    "uf": "MG"
+  },
+  {
+    "cep": "36803-036",
+    "logradouro": "Praça Manoel Afonso Cardoso",
+    "complemento": "",
+    "unidade": "",
+    "bairro": "Triângulo",
+    "localidade": "Carangola",
+    "uf": "MG"
+  },
+  {
+    "cep": "36803-040",
+    "logradouro": "Praça Mariá Camargo Oliveira Aguiar",
+    "complemento": "",
+    "unidade": "",
+    "bairro": "Triângulo",
+    "localidade": "Carangola",
+    "uf": "MG"
+  },
+  {
+    "cep": "36807-970",
+    "logradouro": "Praça Nascimento Leal",
+    "complemento": "96",
+    "unidade": "AGC Alvorada",
+    "bairro": "Alvorada",
+    "localidade": "Carangola",
+    "uf": "MG"
+  },
+  {
+    "cep": "36802-036",
+    "logradouro": "Praça Nazira Moysés Matos",
+    "complemento": "",
+    "unidade": "",
+    "bairro": "Coroado",
+    "localidade": "Carangola",
+    "uf": "MG"
+  },
+  {
+    "cep": "36802-104",
+    "logradouro": "Praça Onofre de Castro Neves",
+    "complemento": "",
+    "unidade": "",
+    "bairro": "Santa Emília",
+    "localidade": "Carangola",
+    "uf": "MG"
+  },
+  {
+    "cep": "36802-098",
+    "logradouro": "Praça Pedro de Oliveira",
+    "complemento": "",
+    "unidade": "",
+    "bairro": "Santa Emília",
+    "localidade": "Carangola",
+    "uf": "MG"
+  },
+  {
+    "cep": "36803-030",
+    "logradouro": "Praça Presidente Getúlio Vargas",
+    "complemento": "",
+    "unidade": "",
+    "bairro": "Triângulo",
+    "localidade": "Carangola",
+    "uf": "MG"
+  },
+  {
+    "cep": "36802-100",
+    "logradouro": "Praça Rotary",
+    "complemento": "",
+    "unidade": "",
+    "bairro": "Santa Emília",
+    "localidade": "Carangola",
+    "uf": "MG"
+  },
+  {
+    "cep": "36802-090",
+    "logradouro": "Praça Tiradentes",
+    "complemento": "",
+    "unidade": "",
+    "bairro": "Santa Emília",
+    "localidade": "Carangola",
+    "uf": "MG"
+  },
+  {
+    "cep": "36801-138",
+    "logradouro": "Praça Wilton Pagano Vaz",
+    "complemento": "",
+    "unidade": "",
+    "bairro": "Santa Maria",
+    "localidade": "Carangola",
+    "uf": "MG"
+  },
+  {
+    "cep": "36802-122",
+    "logradouro": "Rua A",
+    "complemento": "",
+    "unidade": "",
+    "bairro": "Eldorado",
+    "localidade": "Carangola",
+    "uf": "MG"
+  },
+  {
+    "cep": "36803-218",
+    "logradouro": "Rua Alagoas",
+    "complemento": "",
+    "unidade": "",
+    "bairro": "Panorama",
+    "localidade": "Carangola",
+    "uf": "MG"
+  },
+  {
+    "cep": "36803-110",
+    "logradouro": "Rua Alvorada",
+    "complemento": "",
+    "unidade": "",
+    "bairro": "Triângulo",
+    "localidade": "Carangola",
+    "uf": "MG"
+  },
+  {
+    "cep": "36802-238",
+    "logradouro": "Rua Amazonas",
+    "complemento": "",
+    "unidade": "",
+    "bairro": "Aeroporto",
+    "localidade": "Carangola",
+    "uf": "MG"
+  },
+  {
+    "cep": "36803-018",
+    "logradouro": "Rua Ari Bello",
+    "complemento": "",
+    "unidade": "",
+    "bairro": "Triângulo",
+    "localidade": "Carangola",
+    "uf": "MG"
+  },
+  {
+    "cep": "36802-052",
+    "logradouro": "Rua Ari Nolasco",
+    "complemento": "",
+    "unidade": "",
+    "bairro": "Coroado",
+    "localidade": "Carangola",
+    "uf": "MG"
+  },
+  {
+    "cep": "36808-970",
+    "logradouro": "Rua B",
+    "complemento": "496",
+    "unidade": "AGC Ponte Alta de Minas",
+    "bairro": "Ponte Alta de Minas",
+    "localidade": "Carangola",
+    "uf": "MG"
+  },
+  {
+    "cep": "36803-240",
+    "logradouro": "Rua Barrosos",
+    "complemento": "",
+    "unidade": "",
+    "bairro": "Panorama",
+    "localidade": "Carangola",
+    "uf": "MG"
+  },
+  {
+    "cep": "36803-138",
+    "logradouro": "Rua Bela Vista",
+    "complemento": "",
+    "unidade": "",
+    "bairro": "Triângulo",
+    "localidade": "Carangola",
+    "uf": "MG"
+  },
+  {
+    "cep": "36803-230",
+    "logradouro": "Rua Borboleta",
+    "complemento": "",
+    "unidade": "",
+    "bairro": "Panorama",
+    "localidade": "Carangola",
+    "uf": "MG"
+  },
+  {
+    "cep": "36802-022",
+    "logradouro": "Rua Breno Motta",
+    "complemento": "",
+    "unidade": "",
+    "bairro": "Coroado",
+    "localidade": "Carangola",
+    "uf": "MG"
+  },
+  {
+    "cep": "36803-238",
+    "logradouro": "Rua Caiana",
+    "complemento": "",
+    "unidade": "",
+    "bairro": "Panorama",
+    "localidade": "Carangola",
+    "uf": "MG"
+  },
+  {
+    "cep": "36800-038",
+    "logradouro": "Rua Caparaó",
+    "complemento": "",
+    "unidade": "",
+    "bairro": "Centro",
+    "localidade": "Carangola",
+    "uf": "MG"
+  },
+  {
+    "cep": "36801-104",
+    "logradouro": "Rua Chico Mendes",
+    "complemento": "",
+    "unidade": "",
+    "bairro": "Ouro Verde",
+    "localidade": "Carangola",
+    "uf": "MG"
+  },
+  {
+    "cep": "36803-228",
+    "logradouro": "Rua Conceição",
+    "complemento": "",
+    "unidade": "",
+    "bairro": "Panorama",
+    "localidade": "Carangola",
+    "uf": "MG"
+  },
+  {
+    "cep": "36802-130",
+    "logradouro": "Rua das Ameixas",
+    "complemento": "",
+    "unidade": "",
+    "bairro": "Eldorado",
+    "localidade": "Carangola",
+    "uf": "MG"
+  },
+  {
+    "cep": "36802-128",
+    "logradouro": "Rua das Amoras",
+    "complemento": "",
+    "unidade": "",
+    "bairro": "Eldorado",
+    "localidade": "Carangola",
+    "uf": "MG"
+  },
+  {
+    "cep": "36800-040",
+    "logradouro": "Rua Divino",
+    "complemento": "",
+    "unidade": "",
+    "bairro": "Centro",
+    "localidade": "Carangola",
+    "uf": "MG"
+  },
+  {
+    "cep": "36801-076",
+    "logradouro": "Rua Espera Feliz",
+    "complemento": "",
+    "unidade": "",
+    "bairro": "Santo Onofre",
+    "localidade": "Carangola",
+    "uf": "MG"
+  },
+  {
+    "cep": "36801-108",
+    "logradouro": "Rua Faria Lemos",
+    "complemento": "",
+    "unidade": "",
+    "bairro": "Ouro Verde",
+    "localidade": "Carangola",
+    "uf": "MG"
+  },
+  {
+    "cep": "36803-108",
+    "logradouro": "Rua Fervedouro",
+    "complemento": "",
+    "unidade": "",
+    "bairro": "Triângulo",
+    "localidade": "Carangola",
+    "uf": "MG"
+  },
+  {
+    "cep": "36803-066",
+    "logradouro": "Rua H",
+    "complemento": "",
+    "unidade": "",
+    "bairro": "Triângulo",
+    "localidade": "Carangola",
+    "uf": "MG"
+  },
+  {
+    "cep": "36803-068",
+    "logradouro": "Rua I",
+    "complemento": "",
+    "unidade": "",
+    "bairro": "Triângulo",
+    "localidade": "Carangola",
+    "uf": "MG"
+  },
+  {
+    "cep": "36801-184",
+    "logradouro": "Rua João Maia",
+    "complemento": "",
+    "unidade": "",
+    "bairro": "Santa Maria",
+    "localidade": "Carangola",
+    "uf": "MG"
+  },
+  {
+    "cep": "36803-118",
+    "logradouro": "Rua João Pessoa",
+    "complemento": "",
+    "unidade": "",
+    "bairro": "Triângulo",
+    "localidade": "Carangola",
+    "uf": "MG"
+  },
+  {
+    "cep": "36803-168",
+    "logradouro": "Rua João Thomé",
+    "complemento": "",
+    "unidade": "",
+    "bairro": "Triângulo",
+    "localidade": "Carangola",
+    "uf": "MG"
+  },
+  {
+    "cep": "36801-142",
+    "logradouro": "Rua Jorge Kamil",
+    "complemento": "",
+    "unidade": "",
+    "bairro": "Santa Maria",
+    "localidade": "Carangola",
+    "uf": "MG"
+  },
+  {
+    "cep": "36801-168",
+    "logradouro": "Rua José Fava",
+    "complemento": "",
+    "unidade": "",
+    "bairro": "Santa Maria",
+    "localidade": "Carangola",
+    "uf": "MG"
+  },
+  {
+    "cep": "36803-114",
+    "logradouro": "Rua Lacerdina",
+    "complemento": "",
+    "unidade": "",
+    "bairro": "Triângulo",
+    "localidade": "Carangola",
+    "uf": "MG"
+  },
+  {
+    "cep": "36805-050",
+    "logradouro": "Rua Leni Grossi",
+    "complemento": "",
+    "unidade": "",
+    "bairro": "Lacerdina",
+    "localidade": "Carangola",
+    "uf": "MG"
+  },
+  {
+    "cep": "36801-148",
+    "logradouro": "Rua Luiz Beletti",
+    "complemento": "",
+    "unidade": "",
+    "bairro": "Santa Maria",
+    "localidade": "Carangola",
+    "uf": "MG"
+  },
+  {
+    "cep": "36800-012",
+    "logradouro": "Rua M",
+    "complemento": "",
+    "unidade": "",
+    "bairro": "Centro",
+    "localidade": "Carangola",
+    "uf": "MG"
+  },
+  {
+    "cep": "36803-242",
+    "logradouro": "Rua Manhuaçu",
+    "complemento": "",
+    "unidade": "",
+    "bairro": "Panorama",
+    "localidade": "Carangola",
+    "uf": "MG"
+  },
+  {
+    "cep": "36803-244",
+    "logradouro": "Rua Manhumirim",
+    "complemento": "",
+    "unidade": "",
+    "bairro": "Panorama",
+    "localidade": "Carangola",
+    "uf": "MG"
+  },
+  {
+    "cep": "36803-022",
+    "logradouro": "Rua Manoel Paiva",
+    "complemento": "",
+    "unidade": "",
+    "bairro": "Triângulo",
+    "localidade": "Carangola",
+    "uf": "MG"
+  },
+  {
+    "cep": "36803-234",
+    "logradouro": "Rua Muriaé",
+    "complemento": "",
+    "unidade": "",
+    "bairro": "Panorama",
+    "localidade": "Carangola",
+    "uf": "MG"
+  },
+  {
+    "cep": "36800-010",
+    "logradouro": "Rua N",
+    "complemento": "",
+    "unidade": "",
+    "bairro": "Centro",
+    "localidade": "Carangola",
+    "uf": "MG"
+  },
+  {
+    "cep": "36802-148",
+    "logradouro": "Rua Nacif Kamil",
+    "complemento": "",
+    "unidade": "",
+    "bairro": "Eldorado",
+    "localidade": "Carangola",
+    "uf": "MG"
+  },
+  {
+    "cep": "36802-190",
+    "logradouro": "Rua Nagil Mergh",
+    "complemento": "",
+    "unidade": "",
+    "bairro": "Novos Tempos",
+    "localidade": "Carangola",
+    "uf": "MG"
+  },
+  {
+    "cep": "36803-222",
+    "logradouro": "Rua Natividade",
+    "complemento": "",
+    "unidade": "",
+    "bairro": "Panorama",
+    "localidade": "Carangola",
+    "uf": "MG"
+  },
+  {
+    "cep": "36803-186",
+    "logradouro": "Rua Pedro Vieira",
+    "complemento": "",
+    "unidade": "",
+    "bairro": "Triângulo",
+    "localidade": "Carangola",
+    "uf": "MG"
+  },
+  {
+    "cep": "36802-250",
+    "logradouro": "Rua Ponte Alta",
+    "complemento": "",
+    "unidade": "",
+    "bairro": "Aeroporto",
+    "localidade": "Carangola",
+    "uf": "MG"
+  },
+  {
+    "cep": "36802-174",
+    "logradouro": "Rua Raul Soares",
+    "complemento": "",
+    "unidade": "",
+    "bairro": "Eldorado",
+    "localidade": "Carangola",
+    "uf": "MG"
+  },
+  {
+    "cep": "36800-084",
+    "logradouro": "Rua Santa Luzia",
+    "complemento": "",
+    "unidade": "",
+    "bairro": "Centro",
+    "localidade": "Carangola",
+    "uf": "MG"
+  },
+  {
+    "cep": "36801-180",
+    "logradouro": "Rua Santa Maria",
+    "complemento": "",
+    "unidade": "",
+    "bairro": "Santa Maria",
+    "localidade": "Carangola",
+    "uf": "MG"
+  },
+  {
+    "cep": "36803-232",
+    "logradouro": "Rua São Bento",
+    "complemento": "",
+    "unidade": "",
+    "bairro": "Panorama",
+    "localidade": "Carangola",
+    "uf": "MG"
+  },
+  {
+    "cep": "36803-146",
+    "logradouro": "Rua São José",
+    "complemento": "",
+    "unidade": "",
+    "bairro": "Triângulo",
+    "localidade": "Carangola",
+    "uf": "MG"
+  },
+  {
+    "cep": "36803-112",
+    "logradouro": "Rua São Pedro",
+    "complemento": "",
+    "unidade": "",
+    "bairro": "Triângulo",
+    "localidade": "Carangola",
+    "uf": "MG"
+  },
+  {
+    "cep": "36800-004",
+    "logradouro": "Rua Tombos",
+    "complemento": "",
+    "unidade": "",
+    "bairro": "Centro",
+    "localidade": "Carangola",
+    "uf": "MG"
+  },
+  {
+    "cep": "36803-144",
+    "logradouro": "Rua Vista Alegre",
+    "complemento": "",
+    "unidade": "",
+    "bairro": "Triângulo",
+    "localidade": "Carangola",
+    "uf": "MG"
+  }
+]
