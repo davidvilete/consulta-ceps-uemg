@@ -15,7 +15,49 @@ from pathlib import Path
 
 UF = "MG"
 CIDADE_PADRAO = "Carangola"
-TIPOS_LOGRADOURO = ["Rua", "Avenida", "Praca"]
+TIPOS_LOGRADOURO = [
+    "Rua",
+    "Avenida",
+    "Praca",
+    "Travessa",
+    "Ladeira",
+    "Beco",
+    "Alameda",
+    "Rodovia",
+    "Estrada",
+    "Vila",
+    "Largo",
+    "Corrego",
+    "Distrito",
+    "Comunidade",
+]
+PREFIXOS_COMPLEMENTARES = [
+    "Doutor",
+    "Coronel",
+    "Capitao",
+    "Major",
+    "General",
+    "Marechal",
+    "Barao",
+    "Prefeito",
+    "Professor",
+    "Professora",
+    "Vereador",
+    "Padre",
+    "Monsenhor",
+    "Dom",
+    "Presidente",
+    "Governador",
+    "Senador",
+    "Deputado",
+    "Juiz",
+    "Madre",
+    "Santa",
+    "Santo",
+    "Sao",
+    "Nossa",
+]
+ALFABETO = "abcdefghijklmnopqrstuvwxyz"
 
 
 def normalizar_chave(texto: str) -> str:
@@ -23,56 +65,77 @@ def normalizar_chave(texto: str) -> str:
     return "".join(ch for ch in texto_nfd if unicodedata.category(ch) != "Mn")
 
 
+def consultar_termo(cidade_encoded: str, termo: str) -> list[dict]:
+    termo_encoded = urllib.parse.quote(termo.strip())
+    url = f"https://viacep.com.br/ws/{UF}/{cidade_encoded}/{termo_encoded}/json/"
+    req = urllib.request.Request(
+        url,
+        headers={"User-Agent": "Mozilla/5.0 (UEMG-SI-ConsultaCEPs/1.0)"},
+    )
+    try:
+        with urllib.request.urlopen(req, timeout=20) as response:
+            dados = json.loads(response.read().decode("utf-8"))
+            if isinstance(dados, list):
+                return dados
+    except Exception as erro:
+        print(f"[ERRO] Falha ao consultar '{termo}': {erro}")
+    return []
+
+
 def coletar_ceps(cidade: str) -> list[dict]:
     cidade_encoded = urllib.parse.quote(cidade.strip())
     registros_unicos: dict[tuple[str, str, str, str, str], dict] = {}
+    fila: list[str] = list(TIPOS_LOGRADOURO) + list(PREFIXOS_COMPLEMENTARES)
+    visitados: set[str] = set()
 
-    for tipo in TIPOS_LOGRADOURO:
-        url = f"https://viacep.com.br/ws/{UF}/{cidade_encoded}/{tipo}/json/"
-        req = urllib.request.Request(
-            url,
-            headers={"User-Agent": "Mozilla/5.0 (UEMG-SI-ConsultaCEPs/1.0)"},
-        )
-        try:
-            with urllib.request.urlopen(req, timeout=20) as response:
-                dados = json.loads(response.read().decode("utf-8"))
-                if not isinstance(dados, list):
-                    print(f"[AVISO] Resposta inesperada para '{tipo}': {dados}")
-                    continue
+    while fila:
+        termo = fila.pop(0)
+        termo_norm = normalizar_chave(termo)
+        if termo_norm in visitados:
+            continue
+        visitados.add(termo_norm)
 
-                novos = 0
-                for item in dados:
-                    cep = (item.get("cep") or "").strip()
-                    logradouro = (item.get("logradouro") or "").strip()
-                    complemento = (item.get("complemento") or "").strip()
-                    unidade = (item.get("unidade") or "").strip()
-                    bairro = (item.get("bairro") or "").strip()
+        dados = consultar_termo(cidade_encoded, termo)
+        novos = 0
+        for item in dados:
+            cep = (item.get("cep") or "").strip()
+            logradouro = (item.get("logradouro") or "").strip()
+            complemento = (item.get("complemento") or "").strip()
+            unidade = (item.get("unidade") or "").strip()
+            bairro = (item.get("bairro") or "").strip()
 
-                    if not cep or not logradouro:
-                        continue
+            if not cep or not logradouro:
+                continue
 
-                    chave = (
-                        cep,
-                        normalizar_chave(logradouro),
-                        normalizar_chave(complemento),
-                        normalizar_chave(unidade),
-                        normalizar_chave(bairro),
-                    )
-                    if chave not in registros_unicos:
-                        registros_unicos[chave] = {
-                            "cep": cep,
-                            "logradouro": logradouro,
-                            "complemento": complemento,
-                            "unidade": unidade,
-                            "bairro": bairro,
-                            "localidade": (item.get("localidade") or cidade).strip(),
-                            "uf": (item.get("uf") or UF).strip(),
-                        }
-                        novos += 1
+            chave = (
+                cep,
+                normalizar_chave(logradouro),
+                normalizar_chave(complemento),
+                normalizar_chave(unidade),
+                normalizar_chave(bairro),
+            )
+            if chave not in registros_unicos:
+                registros_unicos[chave] = {
+                    "cep": cep,
+                    "logradouro": logradouro,
+                    "complemento": complemento,
+                    "unidade": unidade,
+                    "bairro": bairro,
+                    "localidade": (item.get("localidade") or cidade).strip(),
+                    "uf": (item.get("uf") or UF).strip(),
+                }
+                novos += 1
 
-                print(f"[OK] {tipo}: {len(dados)} retornados ({novos} únicos adicionados)")
-        except Exception as erro:
-            print(f"[ERRO] Falha ao consultar '{tipo}' em {url}: {erro}")
+        if dados:
+            print(f"[OK] '{termo}': {len(dados)} retornados ({novos} novos | total: {len(registros_unicos)})")
+
+        # Como o ViaCEP limita o retorno em 50 itens por requisição, subdividimos
+        # automaticamente o prefixo de busca quando atinge 50 resultados.
+        if len(dados) >= 50:
+            for letra in ALFABETO:
+                subtermo = f"{termo} {letra}" if " " not in termo else f"{termo}{letra}"
+                if normalizar_chave(subtermo) not in visitados:
+                    fila.append(subtermo)
 
     lista_ordenada = sorted(
         registros_unicos.values(),

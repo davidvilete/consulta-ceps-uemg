@@ -371,8 +371,8 @@ a:hover {
 .suggestion-sub mark {
   background-color: #fef08a;
   color: var(--color-navy-900);
-  padding: 0 2px;
-  border-radius: 3px;
+  padding: 0;
+  border-radius: 2px;
 }
 
 .suggestion-sub {
