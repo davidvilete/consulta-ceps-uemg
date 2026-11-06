@@ -1,10 +1,10 @@
 [
     {
         "cep":  "36806-899",
-        "logradouro":  "Ãrea Rural",
+        "logradouro":  "Área Rural",
         "complemento":  "",
         "unidade":  "",
-        "bairro":  "Ãrea Rural de Carangola",
+        "bairro":  "Área Rural de Carangola",
         "localidade":  "Carangola",
         "uf":  "MG"
     },
@@ -14,24 +14,6 @@
         "complemento":  "",
         "unidade":  "",
         "bairro":  "Aeroporto",
-        "localidade":  "Carangola",
-        "uf":  "MG"
-    },
-    {
-        "cep":  "36801-116",
-        "logradouro":  "Avenida CapitÃ£o AntÃ´nio Carlos de Souza",
-        "complemento":  "",
-        "unidade":  "",
-        "bairro":  "Ouro Verde",
-        "localidade":  "Carangola",
-        "uf":  "MG"
-    },
-    {
-        "cep":  "36801-140",
-        "logradouro":  "Avenida CapitÃ£o AntÃ´nio Carlos de Souza",
-        "complemento":  "",
-        "unidade":  "",
-        "bairro":  "Santa Maria",
         "localidade":  "Carangola",
         "uf":  "MG"
     },
@@ -55,28 +37,19 @@
     },
     {
         "cep":  "36802-106",
-        "logradouro":  "Avenida das NaÃ§Ãµes",
+        "logradouro":  "Avenida das Nações",
         "complemento":  "",
         "unidade":  "",
-        "bairro":  "Santa EmÃ­lia",
+        "bairro":  "Santa Emília",
         "localidade":  "Carangola",
         "uf":  "MG"
     },
     {
         "cep":  "36802-026",
-        "logradouro":  "Avenida dos ExpedicionÃ¡rios",
+        "logradouro":  "Avenida dos Expedicionários",
         "complemento":  "",
         "unidade":  "",
         "bairro":  "Coroado",
-        "localidade":  "Carangola",
-        "uf":  "MG"
-    },
-    {
-        "cep":  "36802-144",
-        "logradouro":  "Avenida Doutor JosÃ© Garcia de Freitas",
-        "complemento":  "",
-        "unidade":  "",
-        "bairro":  "Eldorado",
         "localidade":  "Carangola",
         "uf":  "MG"
     },
@@ -139,7 +112,7 @@
         "logradouro":  "Avenida Machado de Assis",
         "complemento":  "",
         "unidade":  "",
-        "bairro":  "TriÃ¢ngulo",
+        "bairro":  "Triângulo",
         "localidade":  "Carangola",
         "uf":  "MG"
     },
@@ -172,7 +145,7 @@
     },
     {
         "cep":  "36802-222",
-        "logradouro":  "Avenida Raulina Grossi AraÃºjo",
+        "logradouro":  "Avenida Raulina Grossi Araújo",
         "complemento":  "",
         "unidade":  "",
         "bairro":  "Novos Tempos",
@@ -184,7 +157,7 @@
         "logradouro":  "Avenida Wady Mergh",
         "complemento":  "",
         "unidade":  "",
-        "bairro":  "TriÃ¢ngulo",
+        "bairro":  "Triângulo",
         "localidade":  "Carangola",
         "uf":  "MG"
     },
@@ -202,7 +175,7 @@
         "logradouro":  "Ladeira Carlos Gomes",
         "complemento":  "",
         "unidade":  "",
-        "bairro":  "Caixa D\u0027Ãgua",
+        "bairro":  "Caixa D\u0027Água",
         "localidade":  "Carangola",
         "uf":  "MG"
     },
@@ -211,7 +184,7 @@
         "logradouro":  "Ladeira da Saudade",
         "complemento":  "",
         "unidade":  "",
-        "bairro":  "TriÃ¢ngulo",
+        "bairro":  "Triângulo",
         "localidade":  "Carangola",
         "uf":  "MG"
     },
@@ -235,15 +208,6 @@
     },
     {
         "cep":  "36801-062",
-        "logradouro":  "Largo SÃ£o Francisco de Assis",
-        "complemento":  "",
-        "unidade":  "",
-        "bairro":  "Santo Onofre",
-        "localidade":  "Carangola",
-        "uf":  "MG"
-    },
-    {
-        "cep":  "36801-062",
         "logradouro":  "Largo São Francisco de Assis",
         "complemento":  "",
         "unidade":  "",
@@ -253,226 +217,10 @@
     },
     {
         "cep":  "36800-188",
-        "logradouro":  "PraÃ§a Agnaldo Chevrand",
+        "logradouro":  "Praça Agnaldo Chevrand",
         "complemento":  "",
         "unidade":  "",
         "bairro":  "Chevrand",
-        "localidade":  "Carangola",
-        "uf":  "MG"
-    },
-    {
-        "cep":  "36800-076",
-        "logradouro":  "PraÃ§a Coronel JoÃ£o Marcelino",
-        "complemento":  "",
-        "unidade":  "",
-        "bairro":  "Centro",
-        "localidade":  "Carangola",
-        "uf":  "MG"
-    },
-    {
-        "cep":  "36800-078",
-        "logradouro":  "PraÃ§a Coronel Maximiano",
-        "complemento":  "",
-        "unidade":  "",
-        "bairro":  "Centro",
-        "localidade":  "Carangola",
-        "uf":  "MG"
-    },
-    {
-        "cep":  "36800-959",
-        "logradouro":  "PraÃ§a Coronel Maximiano",
-        "complemento":  "36",
-        "unidade":  "AC Carangola",
-        "bairro":  "Centro",
-        "localidade":  "Carangola",
-        "uf":  "MG"
-    },
-    {
-        "cep":  "36800-970",
-        "logradouro":  "PraÃ§a Coronel Maximiano",
-        "complemento":  "36",
-        "unidade":  "AC Carangola",
-        "bairro":  "Centro",
-        "localidade":  "Carangola",
-        "uf":  "MG"
-    },
-    {
-        "cep":  "36800-973",
-        "logradouro":  "PraÃ§a Coronel Maximiano",
-        "complemento":  "36",
-        "unidade":  "UD Carangola",
-        "bairro":  "Centro",
-        "localidade":  "Carangola",
-        "uf":  "MG"
-    },
-    {
-        "cep":  "36802-086",
-        "logradouro":  "PraÃ§a dos Estudantes",
-        "complemento":  "",
-        "unidade":  "",
-        "bairro":  "Santa EmÃ­lia",
-        "localidade":  "Carangola",
-        "uf":  "MG"
-    },
-    {
-        "cep":  "36803-038",
-        "logradouro":  "PraÃ§a dos FerroviÃ¡rios",
-        "complemento":  "",
-        "unidade":  "",
-        "bairro":  "TriÃ¢ngulo",
-        "localidade":  "Carangola",
-        "uf":  "MG"
-    },
-    {
-        "cep":  "36800-110",
-        "logradouro":  "PraÃ§a Doutor Jonas de Faria Castro",
-        "complemento":  "",
-        "unidade":  "",
-        "bairro":  "Centro",
-        "localidade":  "Carangola",
-        "uf":  "MG"
-    },
-    {
-        "cep":  "36801-102",
-        "logradouro":  "PraÃ§a Edward de Souza Pedrosa",
-        "complemento":  "",
-        "unidade":  "",
-        "bairro":  "Ouro Verde",
-        "localidade":  "Carangola",
-        "uf":  "MG"
-    },
-    {
-        "cep":  "36805-072",
-        "logradouro":  "PraÃ§a Firmino Antunes Vieira",
-        "complemento":  "",
-        "unidade":  "",
-        "bairro":  "Lacerdina",
-        "localidade":  "Carangola",
-        "uf":  "MG"
-    },
-    {
-        "cep":  "36803-164",
-        "logradouro":  "PraÃ§a Francisco Chagas Alvim",
-        "complemento":  "",
-        "unidade":  "",
-        "bairro":  "TriÃ¢ngulo",
-        "localidade":  "Carangola",
-        "uf":  "MG"
-    },
-    {
-        "cep":  "36800-106",
-        "logradouro":  "PraÃ§a Governador Valadares",
-        "complemento":  "",
-        "unidade":  "",
-        "bairro":  "Centro",
-        "localidade":  "Carangola",
-        "uf":  "MG"
-    },
-    {
-        "cep":  "36801-082",
-        "logradouro":  "PraÃ§a JosÃ© Toledo Lanzarot",
-        "complemento":  "",
-        "unidade":  "",
-        "bairro":  "Santo Onofre",
-        "localidade":  "Carangola",
-        "uf":  "MG"
-    },
-    {
-        "cep":  "36802-164",
-        "logradouro":  "PraÃ§a Juscelino Kubitschek",
-        "complemento":  "",
-        "unidade":  "",
-        "bairro":  "Eldorado",
-        "localidade":  "Carangola",
-        "uf":  "MG"
-    },
-    {
-        "cep":  "36803-036",
-        "logradouro":  "PraÃ§a Manoel Afonso Cardoso",
-        "complemento":  "",
-        "unidade":  "",
-        "bairro":  "TriÃ¢ngulo",
-        "localidade":  "Carangola",
-        "uf":  "MG"
-    },
-    {
-        "cep":  "36803-040",
-        "logradouro":  "PraÃ§a MariÃ¡ Camargo Oliveira Aguiar",
-        "complemento":  "",
-        "unidade":  "",
-        "bairro":  "TriÃ¢ngulo",
-        "localidade":  "Carangola",
-        "uf":  "MG"
-    },
-    {
-        "cep":  "36807-970",
-        "logradouro":  "PraÃ§a Nascimento Leal",
-        "complemento":  "96",
-        "unidade":  "AGC Alvorada",
-        "bairro":  "Alvorada",
-        "localidade":  "Carangola",
-        "uf":  "MG"
-    },
-    {
-        "cep":  "36802-036",
-        "logradouro":  "PraÃ§a Nazira MoysÃ©s Matos",
-        "complemento":  "",
-        "unidade":  "",
-        "bairro":  "Coroado",
-        "localidade":  "Carangola",
-        "uf":  "MG"
-    },
-    {
-        "cep":  "36802-104",
-        "logradouro":  "PraÃ§a Onofre de Castro Neves",
-        "complemento":  "",
-        "unidade":  "",
-        "bairro":  "Santa EmÃ­lia",
-        "localidade":  "Carangola",
-        "uf":  "MG"
-    },
-    {
-        "cep":  "36802-098",
-        "logradouro":  "PraÃ§a Pedro de Oliveira",
-        "complemento":  "",
-        "unidade":  "",
-        "bairro":  "Santa EmÃ­lia",
-        "localidade":  "Carangola",
-        "uf":  "MG"
-    },
-    {
-        "cep":  "36803-030",
-        "logradouro":  "PraÃ§a Presidente GetÃºlio Vargas",
-        "complemento":  "",
-        "unidade":  "",
-        "bairro":  "TriÃ¢ngulo",
-        "localidade":  "Carangola",
-        "uf":  "MG"
-    },
-    {
-        "cep":  "36802-100",
-        "logradouro":  "PraÃ§a Rotary",
-        "complemento":  "",
-        "unidade":  "",
-        "bairro":  "Santa EmÃ­lia",
-        "localidade":  "Carangola",
-        "uf":  "MG"
-    },
-    {
-        "cep":  "36802-090",
-        "logradouro":  "PraÃ§a Tiradentes",
-        "complemento":  "",
-        "unidade":  "",
-        "bairro":  "Santa EmÃ­lia",
-        "localidade":  "Carangola",
-        "uf":  "MG"
-    },
-    {
-        "cep":  "36801-138",
-        "logradouro":  "PraÃ§a Wilton Pagano Vaz",
-        "complemento":  "",
-        "unidade":  "",
-        "bairro":  "Santa Maria",
         "localidade":  "Carangola",
         "uf":  "MG"
     },
@@ -504,10 +252,28 @@
         "uf":  "MG"
     },
     {
+        "cep":  "36800-959",
+        "logradouro":  "Praça Coronel Maximiano",
+        "complemento":  "36",
+        "unidade":  "AC Carangola",
+        "bairro":  "Centro",
+        "localidade":  "Carangola",
+        "uf":  "MG"
+    },
+    {
         "cep":  "36800-970",
         "logradouro":  "Praça Coronel Maximiano",
         "complemento":  "",
         "unidade":  "",
+        "bairro":  "Centro",
+        "localidade":  "Carangola",
+        "uf":  "MG"
+    },
+    {
+        "cep":  "36800-970",
+        "logradouro":  "Praça Coronel Maximiano",
+        "complemento":  "36",
+        "unidade":  "AC Carangola",
         "bairro":  "Centro",
         "localidade":  "Carangola",
         "uf":  "MG"
@@ -522,11 +288,65 @@
         "uf":  "MG"
     },
     {
+        "cep":  "36800-973",
+        "logradouro":  "Praça Coronel Maximiano",
+        "complemento":  "36",
+        "unidade":  "UD Carangola",
+        "bairro":  "Centro",
+        "localidade":  "Carangola",
+        "uf":  "MG"
+    },
+    {
+        "cep":  "36802-086",
+        "logradouro":  "Praça dos Estudantes",
+        "complemento":  "",
+        "unidade":  "",
+        "bairro":  "Santa Emília",
+        "localidade":  "Carangola",
+        "uf":  "MG"
+    },
+    {
+        "cep":  "36803-038",
+        "logradouro":  "Praça dos Ferroviários",
+        "complemento":  "",
+        "unidade":  "",
+        "bairro":  "Triângulo",
+        "localidade":  "Carangola",
+        "uf":  "MG"
+    },
+    {
         "cep":  "36800-110",
         "logradouro":  "Praça Doutor Jonas de Faria Castro",
         "complemento":  "",
         "unidade":  "",
         "bairro":  "Centro",
+        "localidade":  "Carangola",
+        "uf":  "MG"
+    },
+    {
+        "cep":  "36801-102",
+        "logradouro":  "Praça Edward de Souza Pedrosa",
+        "complemento":  "",
+        "unidade":  "",
+        "bairro":  "Ouro Verde",
+        "localidade":  "Carangola",
+        "uf":  "MG"
+    },
+    {
+        "cep":  "36805-072",
+        "logradouro":  "Praça Firmino Antunes Vieira",
+        "complemento":  "",
+        "unidade":  "",
+        "bairro":  "Lacerdina",
+        "localidade":  "Carangola",
+        "uf":  "MG"
+    },
+    {
+        "cep":  "36803-164",
+        "logradouro":  "Praça Francisco Chagas Alvim",
+        "complemento":  "",
+        "unidade":  "",
+        "bairro":  "Triângulo",
         "localidade":  "Carangola",
         "uf":  "MG"
     },
@@ -540,6 +360,78 @@
         "uf":  "MG"
     },
     {
+        "cep":  "36801-082",
+        "logradouro":  "Praça José Toledo Lanzarot",
+        "complemento":  "",
+        "unidade":  "",
+        "bairro":  "Santo Onofre",
+        "localidade":  "Carangola",
+        "uf":  "MG"
+    },
+    {
+        "cep":  "36802-164",
+        "logradouro":  "Praça Juscelino Kubitschek",
+        "complemento":  "",
+        "unidade":  "",
+        "bairro":  "Eldorado",
+        "localidade":  "Carangola",
+        "uf":  "MG"
+    },
+    {
+        "cep":  "36803-036",
+        "logradouro":  "Praça Manoel Afonso Cardoso",
+        "complemento":  "",
+        "unidade":  "",
+        "bairro":  "Triângulo",
+        "localidade":  "Carangola",
+        "uf":  "MG"
+    },
+    {
+        "cep":  "36803-040",
+        "logradouro":  "Praça Mariá Camargo Oliveira Aguiar",
+        "complemento":  "",
+        "unidade":  "",
+        "bairro":  "Triângulo",
+        "localidade":  "Carangola",
+        "uf":  "MG"
+    },
+    {
+        "cep":  "36807-970",
+        "logradouro":  "Praça Nascimento Leal",
+        "complemento":  "96",
+        "unidade":  "AGC Alvorada",
+        "bairro":  "Alvorada",
+        "localidade":  "Carangola",
+        "uf":  "MG"
+    },
+    {
+        "cep":  "36802-036",
+        "logradouro":  "Praça Nazira Moysés Matos",
+        "complemento":  "",
+        "unidade":  "",
+        "bairro":  "Coroado",
+        "localidade":  "Carangola",
+        "uf":  "MG"
+    },
+    {
+        "cep":  "36802-104",
+        "logradouro":  "Praça Onofre de Castro Neves",
+        "complemento":  "",
+        "unidade":  "",
+        "bairro":  "Santa Emília",
+        "localidade":  "Carangola",
+        "uf":  "MG"
+    },
+    {
+        "cep":  "36802-098",
+        "logradouro":  "Praça Pedro de Oliveira",
+        "complemento":  "",
+        "unidade":  "",
+        "bairro":  "Santa Emília",
+        "localidade":  "Carangola",
+        "uf":  "MG"
+    },
+    {
         "cep":  "36803-030",
         "logradouro":  "Praça Presidente Getúlio Vargas",
         "complemento":  "",
@@ -549,11 +441,38 @@
         "uf":  "MG"
     },
     {
+        "cep":  "36802-100",
+        "logradouro":  "Praça Rotary",
+        "complemento":  "",
+        "unidade":  "",
+        "bairro":  "Santa Emília",
+        "localidade":  "Carangola",
+        "uf":  "MG"
+    },
+    {
+        "cep":  "36802-090",
+        "logradouro":  "Praça Tiradentes",
+        "complemento":  "",
+        "unidade":  "",
+        "bairro":  "Santa Emília",
+        "localidade":  "Carangola",
+        "uf":  "MG"
+    },
+    {
+        "cep":  "36801-138",
+        "logradouro":  "Praça Wilton Pagano Vaz",
+        "complemento":  "",
+        "unidade":  "",
+        "bairro":  "Santa Maria",
+        "localidade":  "Carangola",
+        "uf":  "MG"
+    },
+    {
         "cep":  "36803-180",
         "logradouro":  "Rodovia MG-111",
         "complemento":  "",
         "unidade":  "",
-        "bairro":  "TriÃ¢ngulo",
+        "bairro":  "Triângulo",
         "localidade":  "Carangola",
         "uf":  "MG"
     },
@@ -563,69 +482,6 @@
         "complemento":  "",
         "unidade":  "",
         "bairro":  "Eldorado",
-        "localidade":  "Carangola",
-        "uf":  "MG"
-    },
-    {
-        "cep":  "36800-210",
-        "logradouro":  "Rua Ã‚ngelo Menicucci",
-        "complemento":  "",
-        "unidade":  "",
-        "bairro":  "Chevrand",
-        "localidade":  "Carangola",
-        "uf":  "MG"
-    },
-    {
-        "cep":  "36802-198",
-        "logradouro":  "Rua Ã‰lcio Cardoso",
-        "complemento":  "",
-        "unidade":  "",
-        "bairro":  "Novos Tempos",
-        "localidade":  "Carangola",
-        "uf":  "MG"
-    },
-    {
-        "cep":  "36801-008",
-        "logradouro":  "Rua Ãlvaro de Oliveira GraÃ§a",
-        "complemento":  "",
-        "unidade":  "",
-        "bairro":  "Amendoeira",
-        "localidade":  "Carangola",
-        "uf":  "MG"
-    },
-    {
-        "cep":  "36802-146",
-        "logradouro":  "Rua Ãlvaro Moreira Barros",
-        "complemento":  "",
-        "unidade":  "",
-        "bairro":  "Eldorado",
-        "localidade":  "Carangola",
-        "uf":  "MG"
-    },
-    {
-        "cep":  "36801-158",
-        "logradouro":  "Rua Ãtila BrandÃ£o",
-        "complemento":  "",
-        "unidade":  "",
-        "bairro":  "Santa Maria",
-        "localidade":  "Carangola",
-        "uf":  "MG"
-    },
-    {
-        "cep":  "36803-166",
-        "logradouro":  "Rua AbÃ­lio Coimbra",
-        "complemento":  "",
-        "unidade":  "",
-        "bairro":  "TriÃ¢ngulo",
-        "localidade":  "Carangola",
-        "uf":  "MG"
-    },
-    {
-        "cep":  "36801-068",
-        "logradouro":  "Rua AbÃ­lio Ramalho",
-        "complemento":  "",
-        "unidade":  "",
-        "bairro":  "Santo Onofre",
         "localidade":  "Carangola",
         "uf":  "MG"
     },
@@ -644,6 +500,24 @@
         "complemento":  "",
         "unidade":  "",
         "bairro":  "Coroado",
+        "localidade":  "Carangola",
+        "uf":  "MG"
+    },
+    {
+        "cep":  "36803-166",
+        "logradouro":  "Rua Abílio Coimbra",
+        "complemento":  "",
+        "unidade":  "",
+        "bairro":  "Triângulo",
+        "localidade":  "Carangola",
+        "uf":  "MG"
+    },
+    {
+        "cep":  "36801-068",
+        "logradouro":  "Rua Abílio Ramalho",
+        "complemento":  "",
+        "unidade":  "",
+        "bairro":  "Santo Onofre",
         "localidade":  "Carangola",
         "uf":  "MG"
     },
@@ -670,7 +544,7 @@
         "logradouro":  "Rua Adalberto Vancini",
         "complemento":  "",
         "unidade":  "",
-        "bairro":  "TriÃ¢ngulo",
+        "bairro":  "Triângulo",
         "localidade":  "Carangola",
         "uf":  "MG"
     },
@@ -715,7 +589,7 @@
         "logradouro":  "Rua Alair Tavares de Melo",
         "complemento":  "(Loteamento Santa Isabel II)",
         "unidade":  "",
-        "bairro":  "TriÃ¢ngulo",
+        "bairro":  "Triângulo",
         "localidade":  "Carangola",
         "uf":  "MG"
     },
@@ -730,7 +604,7 @@
     },
     {
         "cep":  "36801-052",
-        "logradouro":  "Rua Altair Dias GuimarÃ£es",
+        "logradouro":  "Rua Altair Dias Guimarães",
         "complemento":  "",
         "unidade":  "",
         "bairro":  "Santo Onofre",
@@ -743,6 +617,24 @@
         "complemento":  "",
         "unidade":  "",
         "bairro":  "Santo Onofre",
+        "localidade":  "Carangola",
+        "uf":  "MG"
+    },
+    {
+        "cep":  "36801-008",
+        "logradouro":  "Rua Álvaro de Oliveira Graça",
+        "complemento":  "",
+        "unidade":  "",
+        "bairro":  "Amendoeira",
+        "localidade":  "Carangola",
+        "uf":  "MG"
+    },
+    {
+        "cep":  "36802-146",
+        "logradouro":  "Rua Álvaro Moreira Barros",
+        "complemento":  "",
+        "unidade":  "",
+        "bairro":  "Eldorado",
         "localidade":  "Carangola",
         "uf":  "MG"
     },
@@ -760,7 +652,7 @@
         "logradouro":  "Rua Alvorada",
         "complemento":  "",
         "unidade":  "",
-        "bairro":  "TriÃ¢ngulo",
+        "bairro":  "Triângulo",
         "localidade":  "Carangola",
         "uf":  "MG"
     },
@@ -774,17 +666,8 @@
         "uf":  "MG"
     },
     {
-        "cep":  "36801-032",
-        "logradouro":  "Rua AmÃ©rico Bento Machado",
-        "complemento":  "",
-        "unidade":  "",
-        "bairro":  "Amendoeira",
-        "localidade":  "Carangola",
-        "uf":  "MG"
-    },
-    {
         "cep":  "36805-014",
-        "logradouro":  "Rua Amado ValÃ©rio da Silva",
+        "logradouro":  "Rua Amado Valério da Silva",
         "complemento":  "",
         "unidade":  "",
         "bairro":  "Varginha (Lacerdinha)",
@@ -805,7 +688,7 @@
         "logradouro":  "Rua Amaro Bento Vaz",
         "complemento":  "",
         "unidade":  "",
-        "bairro":  "Santa EmÃ­lia",
+        "bairro":  "Santa Emília",
         "localidade":  "Carangola",
         "uf":  "MG"
     },
@@ -814,7 +697,7 @@
         "logradouro":  "Rua Amauri Novaes Costa",
         "complemento":  "",
         "unidade":  "",
-        "bairro":  "TriÃ¢ngulo",
+        "bairro":  "Triângulo",
         "localidade":  "Carangola",
         "uf":  "MG"
     },
@@ -824,6 +707,15 @@
         "complemento":  "",
         "unidade":  "",
         "bairro":  "Aeroporto",
+        "localidade":  "Carangola",
+        "uf":  "MG"
+    },
+    {
+        "cep":  "36801-032",
+        "logradouro":  "Rua Américo Bento Machado",
+        "complemento":  "",
+        "unidade":  "",
+        "bairro":  "Amendoeira",
         "localidade":  "Carangola",
         "uf":  "MG"
     },
@@ -850,22 +742,13 @@
         "logradouro":  "Rua Ana Lacerda Verdeiro",
         "complemento":  "",
         "unidade":  "",
-        "bairro":  "TriÃ¢ngulo",
-        "localidade":  "Carangola",
-        "uf":  "MG"
-    },
-    {
-        "cep":  "36800-006",
-        "logradouro":  "Rua AnÃ©zio de Paula RÃªgo",
-        "complemento":  "",
-        "unidade":  "",
-        "bairro":  "Centro",
+        "bairro":  "Triângulo",
         "localidade":  "Carangola",
         "uf":  "MG"
     },
     {
         "cep":  "36802-158",
-        "logradouro":  "Rua AnastÃ¡cio AraÃºjo Neto",
+        "logradouro":  "Rua Anastácio Araújo Neto",
         "complemento":  "",
         "unidade":  "",
         "bairro":  "Eldorado",
@@ -873,44 +756,8 @@
         "uf":  "MG"
     },
     {
-        "cep":  "36803-086",
-        "logradouro":  "Rua AntÃ´nio Alves Amorim",
-        "complemento":  "",
-        "unidade":  "",
-        "bairro":  "TriÃ¢ngulo",
-        "localidade":  "Carangola",
-        "uf":  "MG"
-    },
-    {
-        "cep":  "36803-200",
-        "logradouro":  "Rua AntÃ´nio de Souza",
-        "complemento":  "",
-        "unidade":  "",
-        "bairro":  "Panorama",
-        "localidade":  "Carangola",
-        "uf":  "MG"
-    },
-    {
-        "cep":  "36803-170",
-        "logradouro":  "Rua AntÃ´nio Hermenegildo Roriz",
-        "complemento":  "",
-        "unidade":  "",
-        "bairro":  "TriÃ¢ngulo",
-        "localidade":  "Carangola",
-        "uf":  "MG"
-    },
-    {
-        "cep":  "36802-124",
-        "logradouro":  "Rua AntÃ´nio Lobato",
-        "complemento":  "",
-        "unidade":  "",
-        "bairro":  "Eldorado",
-        "localidade":  "Carangola",
-        "uf":  "MG"
-    },
-    {
-        "cep":  "36800-028",
-        "logradouro":  "Rua AntÃ´nio Manoel Vieira",
+        "cep":  "36800-006",
+        "logradouro":  "Rua Anézio de Paula Rêgo",
         "complemento":  "",
         "unidade":  "",
         "bairro":  "Centro",
@@ -918,56 +765,11 @@
         "uf":  "MG"
     },
     {
-        "cep":  "36803-000",
-        "logradouro":  "Rua AntÃ´nio Marques",
+        "cep":  "36800-210",
+        "logradouro":  "Rua Ângelo Menicucci",
         "complemento":  "",
         "unidade":  "",
-        "bairro":  "TriÃ¢ngulo",
-        "localidade":  "Carangola",
-        "uf":  "MG"
-    },
-    {
-        "cep":  "36803-202",
-        "logradouro":  "Rua AntÃ´nio Pistono",
-        "complemento":  "",
-        "unidade":  "",
-        "bairro":  "Panorama",
-        "localidade":  "Carangola",
-        "uf":  "MG"
-    },
-    {
-        "cep":  "36805-074",
-        "logradouro":  "Rua AntÃ´nio Romano Lanes",
-        "complemento":  "",
-        "unidade":  "",
-        "bairro":  "Lacerdina",
-        "localidade":  "Carangola",
-        "uf":  "MG"
-    },
-    {
-        "cep":  "36803-020",
-        "logradouro":  "Rua AntÃ´nio ThomÃ©",
-        "complemento":  "",
-        "unidade":  "",
-        "bairro":  "TriÃ¢ngulo",
-        "localidade":  "Carangola",
-        "uf":  "MG"
-    },
-    {
-        "cep":  "36802-030",
-        "logradouro":  "Rua AntÃ´nio Valente",
-        "complemento":  "",
-        "unidade":  "",
-        "bairro":  "Coroado",
-        "localidade":  "Carangola",
-        "uf":  "MG"
-    },
-    {
-        "cep":  "36803-190",
-        "logradouro":  "Rua AntÃ´nio Vieira Machado",
-        "complemento":  "",
-        "unidade":  "",
-        "bairro":  "TriÃ¢ngulo",
+        "bairro":  "Chevrand",
         "localidade":  "Carangola",
         "uf":  "MG"
     },
@@ -990,6 +792,105 @@
         "uf":  "MG"
     },
     {
+        "cep":  "36803-086",
+        "logradouro":  "Rua Antônio Alves Amorim",
+        "complemento":  "",
+        "unidade":  "",
+        "bairro":  "Triângulo",
+        "localidade":  "Carangola",
+        "uf":  "MG"
+    },
+    {
+        "cep":  "36803-200",
+        "logradouro":  "Rua Antônio de Souza",
+        "complemento":  "",
+        "unidade":  "",
+        "bairro":  "Panorama",
+        "localidade":  "Carangola",
+        "uf":  "MG"
+    },
+    {
+        "cep":  "36803-170",
+        "logradouro":  "Rua Antônio Hermenegildo Roriz",
+        "complemento":  "",
+        "unidade":  "",
+        "bairro":  "Triângulo",
+        "localidade":  "Carangola",
+        "uf":  "MG"
+    },
+    {
+        "cep":  "36802-124",
+        "logradouro":  "Rua Antônio Lobato",
+        "complemento":  "",
+        "unidade":  "",
+        "bairro":  "Eldorado",
+        "localidade":  "Carangola",
+        "uf":  "MG"
+    },
+    {
+        "cep":  "36800-028",
+        "logradouro":  "Rua Antônio Manoel Vieira",
+        "complemento":  "",
+        "unidade":  "",
+        "bairro":  "Centro",
+        "localidade":  "Carangola",
+        "uf":  "MG"
+    },
+    {
+        "cep":  "36803-000",
+        "logradouro":  "Rua Antônio Marques",
+        "complemento":  "",
+        "unidade":  "",
+        "bairro":  "Triângulo",
+        "localidade":  "Carangola",
+        "uf":  "MG"
+    },
+    {
+        "cep":  "36803-202",
+        "logradouro":  "Rua Antônio Pistono",
+        "complemento":  "",
+        "unidade":  "",
+        "bairro":  "Panorama",
+        "localidade":  "Carangola",
+        "uf":  "MG"
+    },
+    {
+        "cep":  "36805-074",
+        "logradouro":  "Rua Antônio Romano Lanes",
+        "complemento":  "",
+        "unidade":  "",
+        "bairro":  "Lacerdina",
+        "localidade":  "Carangola",
+        "uf":  "MG"
+    },
+    {
+        "cep":  "36803-020",
+        "logradouro":  "Rua Antônio Thomé",
+        "complemento":  "",
+        "unidade":  "",
+        "bairro":  "Triângulo",
+        "localidade":  "Carangola",
+        "uf":  "MG"
+    },
+    {
+        "cep":  "36802-030",
+        "logradouro":  "Rua Antônio Valente",
+        "complemento":  "",
+        "unidade":  "",
+        "bairro":  "Coroado",
+        "localidade":  "Carangola",
+        "uf":  "MG"
+    },
+    {
+        "cep":  "36803-190",
+        "logradouro":  "Rua Antônio Vieira Machado",
+        "complemento":  "",
+        "unidade":  "",
+        "bairro":  "Triângulo",
+        "localidade":  "Carangola",
+        "uf":  "MG"
+    },
+    {
         "cep":  "36801-192",
         "logradouro":  "Rua Archangelo Faccim",
         "complemento":  "",
@@ -1003,7 +904,7 @@
         "logradouro":  "Rua Archimedes Menicucci",
         "complemento":  "",
         "unidade":  "",
-        "bairro":  "Caixa D\u0027Ãgua",
+        "bairro":  "Caixa D\u0027Água",
         "localidade":  "Carangola",
         "uf":  "MG"
     },
@@ -1012,7 +913,7 @@
         "logradouro":  "Rua Ari Bello",
         "complemento":  "",
         "unidade":  "",
-        "bairro":  "TriÃ¢ngulo",
+        "bairro":  "Triângulo",
         "localidade":  "Carangola",
         "uf":  "MG"
     },
@@ -1028,7 +929,7 @@
     {
         "cep":  "36802-005",
         "logradouro":  "Rua Arlete Gomes Almeida",
-        "complemento":  "(Loteamento Vale dos IpÃªs)",
+        "complemento":  "(Loteamento Vale dos Ipês)",
         "unidade":  "",
         "bairro":  "Coroado",
         "localidade":  "Carangola",
@@ -1037,6 +938,15 @@
     {
         "cep":  "36801-178",
         "logradouro":  "Rua Armando Imbelloni",
+        "complemento":  "",
+        "unidade":  "",
+        "bairro":  "Santa Maria",
+        "localidade":  "Carangola",
+        "uf":  "MG"
+    },
+    {
+        "cep":  "36801-158",
+        "logradouro":  "Rua Átila Brandão",
         "complemento":  "",
         "unidade":  "",
         "bairro":  "Santa Maria",
@@ -1058,24 +968,6 @@
         "complemento":  "496",
         "unidade":  "AGC Ponte Alta de Minas",
         "bairro":  "Ponte Alta de Minas",
-        "localidade":  "Carangola",
-        "uf":  "MG"
-    },
-    {
-        "cep":  "36800-036",
-        "logradouro":  "Rua BarÃ£o de SÃ£o Francisco",
-        "complemento":  "",
-        "unidade":  "",
-        "bairro":  "Centro",
-        "localidade":  "Carangola",
-        "uf":  "MG"
-    },
-    {
-        "cep":  "36802-258",
-        "logradouro":  "Rua BarÃ£o do Rio Branco",
-        "complemento":  "",
-        "unidade":  "",
-        "bairro":  "Aeroporto",
         "localidade":  "Carangola",
         "uf":  "MG"
     },
@@ -1111,7 +1003,7 @@
         "logradouro":  "Rua Batista Martins",
         "complemento":  "",
         "unidade":  "",
-        "bairro":  "TriÃ¢ngulo",
+        "bairro":  "Triângulo",
         "localidade":  "Carangola",
         "uf":  "MG"
     },
@@ -1120,7 +1012,7 @@
         "logradouro":  "Rua Bela Vista",
         "complemento":  "",
         "unidade":  "",
-        "bairro":  "TriÃ¢ngulo",
+        "bairro":  "Triângulo",
         "localidade":  "Carangola",
         "uf":  "MG"
     },
@@ -1156,7 +1048,7 @@
         "logradouro":  "Rua Braulino Borges",
         "complemento":  "",
         "unidade":  "",
-        "bairro":  "TriÃ¢ngulo",
+        "bairro":  "Triângulo",
         "localidade":  "Carangola",
         "uf":  "MG"
     },
@@ -1174,7 +1066,7 @@
         "logradouro":  "Rua Braz Rodrigues de Souza",
         "complemento":  "",
         "unidade":  "",
-        "bairro":  "Caixa D\u0027Ãgua",
+        "bairro":  "Caixa D\u0027Água",
         "localidade":  "Carangola",
         "uf":  "MG"
     },
@@ -1198,28 +1090,10 @@
     },
     {
         "cep":  "36800-038",
-        "logradouro":  "Rua CaparaÃ³",
+        "logradouro":  "Rua Caparaó",
         "complemento":  "",
         "unidade":  "",
         "bairro":  "Centro",
-        "localidade":  "Carangola",
-        "uf":  "MG"
-    },
-    {
-        "cep":  "36802-132",
-        "logradouro":  "Rua CapitÃ£o Josino Rodrigues",
-        "complemento":  "",
-        "unidade":  "",
-        "bairro":  "Eldorado",
-        "localidade":  "Carangola",
-        "uf":  "MG"
-    },
-    {
-        "cep":  "36802-094",
-        "logradouro":  "Rua CapitÃ£o Severino Fraga",
-        "complemento":  "",
-        "unidade":  "",
-        "bairro":  "Santa EmÃ­lia",
         "localidade":  "Carangola",
         "uf":  "MG"
     },
@@ -1246,7 +1120,7 @@
         "logradouro":  "Rua Carlos Coelho",
         "complemento":  "",
         "unidade":  "",
-        "bairro":  "TriÃ¢ngulo",
+        "bairro":  "Triângulo",
         "localidade":  "Carangola",
         "uf":  "MG"
     },
@@ -1279,7 +1153,7 @@
     },
     {
         "cep":  "36801-146",
-        "logradouro":  "Rua CesÃ¡rio Alvin",
+        "logradouro":  "Rua Cesário Alvin",
         "complemento":  "",
         "unidade":  "",
         "bairro":  "Santa Maria",
@@ -1300,7 +1174,7 @@
         "logradouro":  "Rua Cinco de Julho",
         "complemento":  "",
         "unidade":  "",
-        "bairro":  "TriÃ¢ngulo",
+        "bairro":  "Triângulo",
         "localidade":  "Carangola",
         "uf":  "MG"
     },
@@ -1314,20 +1188,20 @@
         "uf":  "MG"
     },
     {
-        "cep":  "36802-084",
-        "logradouro":  "Rua ClÃ¡udio Manoel",
+        "cep":  "36802-092",
+        "logradouro":  "Rua Claudino Graça",
         "complemento":  "",
         "unidade":  "",
-        "bairro":  "Santa EmÃ­lia",
+        "bairro":  "Santa Emília",
         "localidade":  "Carangola",
         "uf":  "MG"
     },
     {
-        "cep":  "36802-092",
-        "logradouro":  "Rua Claudino GraÃ§a",
+        "cep":  "36802-084",
+        "logradouro":  "Rua Cláudio Manoel",
         "complemento":  "",
         "unidade":  "",
-        "bairro":  "Santa EmÃ­lia",
+        "bairro":  "Santa Emília",
         "localidade":  "Carangola",
         "uf":  "MG"
     },
@@ -1342,7 +1216,7 @@
     },
     {
         "cep":  "36803-228",
-        "logradouro":  "Rua ConceiÃ§Ã£o",
+        "logradouro":  "Rua Conceição",
         "complemento":  "",
         "unidade":  "",
         "bairro":  "Panorama",
@@ -1351,7 +1225,7 @@
     },
     {
         "cep":  "36801-176",
-        "logradouro":  "Rua CornÃ©lio Ribeiro Alves",
+        "logradouro":  "Rua Cornélio Ribeiro Alves",
         "complemento":  "",
         "unidade":  "",
         "bairro":  "Santa Maria",
@@ -1363,16 +1237,7 @@
         "logradouro":  "Rua Coronel Fulgino",
         "complemento":  "",
         "unidade":  "",
-        "bairro":  "TriÃ¢ngulo",
-        "localidade":  "Carangola",
-        "uf":  "MG"
-    },
-    {
-        "cep":  "36800-020",
-        "logradouro":  "Rua Coronel JoÃ£o AntÃ´nio Pereira",
-        "complemento":  "",
-        "unidade":  "",
-        "bairro":  "Centro",
+        "bairro":  "Triângulo",
         "localidade":  "Carangola",
         "uf":  "MG"
     },
@@ -1390,7 +1255,7 @@
         "logradouro":  "Rua Coronel Manoel de Souza",
         "complemento":  "",
         "unidade":  "",
-        "bairro":  "TriÃ¢ngulo",
+        "bairro":  "Triângulo",
         "localidade":  "Carangola",
         "uf":  "MG"
     },
@@ -1400,15 +1265,6 @@
         "complemento":  "",
         "unidade":  "",
         "bairro":  "Eldorado",
-        "localidade":  "Carangola",
-        "uf":  "MG"
-    },
-    {
-        "cep":  "36800-062",
-        "logradouro":  "Rua Coronel OlÃ­mpio Machado",
-        "complemento":  "",
-        "unidade":  "",
-        "bairro":  "Centro",
         "localidade":  "Carangola",
         "uf":  "MG"
     },
@@ -1426,16 +1282,16 @@
         "logradouro":  "Rua Cristiano Lacerda Leal",
         "complemento":  "",
         "unidade":  "",
-        "bairro":  "TriÃ¢ngulo",
+        "bairro":  "Triângulo",
         "localidade":  "Carangola",
         "uf":  "MG"
     },
     {
         "cep":  "36803-076",
-        "logradouro":  "Rua Cruzaltino Tavares GuimarÃ£es",
+        "logradouro":  "Rua Cruzaltino Tavares Guimarães",
         "complemento":  "",
         "unidade":  "",
-        "bairro":  "TriÃ¢ngulo",
+        "bairro":  "Triângulo",
         "localidade":  "Carangola",
         "uf":  "MG"
     },
@@ -1451,7 +1307,7 @@
     {
         "cep":  "36802-007",
         "logradouro":  "Rua Daniel de Souza Rocha",
-        "complemento":  "(Loteamento Jardim dos IpÃªs II)",
+        "complemento":  "(Loteamento Jardim dos Ipês II)",
         "unidade":  "",
         "bairro":  "Coroado",
         "localidade":  "Carangola",
@@ -1486,10 +1342,10 @@
     },
     {
         "cep":  "36803-060",
-        "logradouro":  "Rua DemÃ©trio Tavares de Melo",
+        "logradouro":  "Rua Demétrio Tavares de Melo",
         "complemento":  "",
         "unidade":  "",
-        "bairro":  "TriÃ¢ngulo",
+        "bairro":  "Triângulo",
         "localidade":  "Carangola",
         "uf":  "MG"
     },
@@ -1504,7 +1360,7 @@
     },
     {
         "cep":  "36801-166",
-        "logradouro":  "Rua DinÃ¡ Aquino Curvelo",
+        "logradouro":  "Rua Diná Aquino Curvelo",
         "complemento":  "",
         "unidade":  "",
         "bairro":  "Santa Maria",
@@ -1516,7 +1372,7 @@
         "logradouro":  "Rua Divan Sangy Ferreira",
         "complemento":  "",
         "unidade":  "",
-        "bairro":  "TriÃ¢ngulo",
+        "bairro":  "Triângulo",
         "localidade":  "Carangola",
         "uf":  "MG"
     },
@@ -1526,15 +1382,6 @@
         "complemento":  "",
         "unidade":  "",
         "bairro":  "Centro",
-        "localidade":  "Carangola",
-        "uf":  "MG"
-    },
-    {
-        "cep":  "36803-176",
-        "logradouro":  "Rua DomÃ­cio de Paulo Lucas",
-        "complemento":  "",
-        "unidade":  "",
-        "bairro":  "TriÃ¢ngulo",
         "localidade":  "Carangola",
         "uf":  "MG"
     },
@@ -1576,7 +1423,7 @@
     },
     {
         "cep":  "36800-002",
-        "logradouro":  "Rua Dona Arminda GuimarÃ£es de Paula",
+        "logradouro":  "Rua Dona Arminda Guimarães de Paula",
         "complemento":  "",
         "unidade":  "",
         "bairro":  "Centro",
@@ -1594,7 +1441,7 @@
     },
     {
         "cep":  "36801-156",
-        "logradouro":  "Rua dos Cavaleiros TemplÃ¡rios",
+        "logradouro":  "Rua dos Cavaleiros Templários",
         "complemento":  "",
         "unidade":  "",
         "bairro":  "Santa Maria",
@@ -1603,19 +1450,10 @@
     },
     {
         "cep":  "36803-142",
-        "logradouro":  "Rua dos OperÃ¡rios",
+        "logradouro":  "Rua dos Operários",
         "complemento":  "",
         "unidade":  "",
-        "bairro":  "TriÃ¢ngulo",
-        "localidade":  "Carangola",
-        "uf":  "MG"
-    },
-    {
-        "cep":  "36802-016",
-        "logradouro":  "Rua Doutor Ãlvaro Silveira Louro",
-        "complemento":  "",
-        "unidade":  "",
-        "bairro":  "Coroado",
+        "bairro":  "Triângulo",
         "localidade":  "Carangola",
         "uf":  "MG"
     },
@@ -1624,7 +1462,7 @@
         "logradouro":  "Rua Doutor Adnardo Rocha",
         "complemento":  "",
         "unidade":  "",
-        "bairro":  "Santa EmÃ­lia",
+        "bairro":  "Santa Emília",
         "localidade":  "Carangola",
         "uf":  "MG"
     },
@@ -1643,15 +1481,6 @@
         "complemento":  "",
         "unidade":  "",
         "bairro":  "Panorama",
-        "localidade":  "Carangola",
-        "uf":  "MG"
-    },
-    {
-        "cep":  "36802-018",
-        "logradouro":  "Rua Doutor AntÃ´nio Ferraz Carvalho",
-        "complemento":  "",
-        "unidade":  "",
-        "bairro":  "Coroado",
         "localidade":  "Carangola",
         "uf":  "MG"
     },
@@ -1684,28 +1513,10 @@
     },
     {
         "cep":  "36802-040",
-        "logradouro":  "Rua Doutor Edgard MÃºcio Pinheiro GuimarÃ£es",
-        "complemento":  "",
-        "unidade":  "",
-        "bairro":  "Coroado",
-        "localidade":  "Carangola",
-        "uf":  "MG"
-    },
-    {
-        "cep":  "36802-040",
         "logradouro":  "Rua Doutor Edgard Múcio Pinheiro Guimarães",
         "complemento":  "",
         "unidade":  "",
         "bairro":  "Coroado",
-        "localidade":  "Carangola",
-        "uf":  "MG"
-    },
-    {
-        "cep":  "36805-016",
-        "logradouro":  "Rua Doutor EmÃ­lio Soares Machado de GouvÃªa",
-        "complemento":  "",
-        "unidade":  "",
-        "bairro":  "Varginha (Lacerdinha)",
         "localidade":  "Carangola",
         "uf":  "MG"
     },
@@ -1729,15 +1540,6 @@
     },
     {
         "cep":  "36801-010",
-        "logradouro":  "Rua Doutor Fernando QuintÃ£o Hosken",
-        "complemento":  "",
-        "unidade":  "",
-        "bairro":  "Amendoeira",
-        "localidade":  "Carangola",
-        "uf":  "MG"
-    },
-    {
-        "cep":  "36801-010",
         "logradouro":  "Rua Doutor Fernando Quintão Hosken",
         "complemento":  "",
         "unidade":  "",
@@ -1750,7 +1552,7 @@
         "logradouro":  "Rua Doutor Fioravante Padula Neto",
         "complemento":  "",
         "unidade":  "",
-        "bairro":  "Caixa D\u0027Ãgua",
+        "bairro":  "Caixa D\u0027Água",
         "localidade":  "Carangola",
         "uf":  "MG"
     },
@@ -1783,33 +1585,6 @@
     },
     {
         "cep":  "36805-012",
-        "logradouro":  "Rua Doutor JosÃ© Amaro de Andrade",
-        "complemento":  "",
-        "unidade":  "",
-        "bairro":  "Varginha (Lacerdinha)",
-        "localidade":  "Carangola",
-        "uf":  "MG"
-    },
-    {
-        "cep":  "36802-154",
-        "logradouro":  "Rua Doutor JosÃ© HorÃ¡cio Catta-Preta",
-        "complemento":  "",
-        "unidade":  "",
-        "bairro":  "Eldorado",
-        "localidade":  "Carangola",
-        "uf":  "MG"
-    },
-    {
-        "cep":  "36803-016",
-        "logradouro":  "Rua Doutor JosÃ© Larivoir Esteves",
-        "complemento":  "",
-        "unidade":  "",
-        "bairro":  "TriÃ¢ngulo",
-        "localidade":  "Carangola",
-        "uf":  "MG"
-    },
-    {
-        "cep":  "36805-012",
         "logradouro":  "Rua Doutor José Amaro de Andrade (Varginha",
         "complemento":  "",
         "unidade":  "",
@@ -1832,15 +1607,6 @@
         "complemento":  "",
         "unidade":  "",
         "bairro":  "Triângulo",
-        "localidade":  "Carangola",
-        "uf":  "MG"
-    },
-    {
-        "cep":  "36800-180",
-        "logradouro":  "Rua Doutor Juarez QuintÃ£o Hosken",
-        "complemento":  "",
-        "unidade":  "",
-        "bairro":  "Chevrand",
         "localidade":  "Carangola",
         "uf":  "MG"
     },
@@ -1876,7 +1642,7 @@
         "logradouro":  "Rua Doutor Manoel da Cruz",
         "complemento":  "",
         "unidade":  "",
-        "bairro":  "TriÃ¢ngulo",
+        "bairro":  "Triângulo",
         "localidade":  "Carangola",
         "uf":  "MG"
     },
@@ -1886,24 +1652,6 @@
         "complemento":  "",
         "unidade":  "",
         "bairro":  "Centro",
-        "localidade":  "Carangola",
-        "uf":  "MG"
-    },
-    {
-        "cep":  "36800-026",
-        "logradouro":  "Rua Doutor OlÃ­mpio Teixeira",
-        "complemento":  "",
-        "unidade":  "",
-        "bairro":  "Centro",
-        "localidade":  "Carangola",
-        "uf":  "MG"
-    },
-    {
-        "cep":  "36802-080",
-        "logradouro":  "Rua Doutor OlÃ­mpio Teixeira",
-        "complemento":  "",
-        "unidade":  "",
-        "bairro":  "Santa EmÃ­lia",
         "localidade":  "Carangola",
         "uf":  "MG"
     },
@@ -1940,15 +1688,6 @@
         "complemento":  "",
         "unidade":  "",
         "bairro":  "Coroado",
-        "localidade":  "Carangola",
-        "uf":  "MG"
-    },
-    {
-        "cep":  "36802-272",
-        "logradouro":  "Rua Doutor Pedro MourÃ£o",
-        "complemento":  "",
-        "unidade":  "",
-        "bairro":  "Floresta",
         "localidade":  "Carangola",
         "uf":  "MG"
     },
@@ -1993,16 +1732,25 @@
         "logradouro":  "Rua Doze de Outubro",
         "complemento":  "",
         "unidade":  "",
-        "bairro":  "TriÃ¢ngulo",
+        "bairro":  "Triângulo",
+        "localidade":  "Carangola",
+        "uf":  "MG"
+    },
+    {
+        "cep":  "36802-198",
+        "logradouro":  "Rua Élcio Cardoso",
+        "complemento":  "",
+        "unidade":  "",
+        "bairro":  "Novos Tempos",
         "localidade":  "Carangola",
         "uf":  "MG"
     },
     {
         "cep":  "36803-006",
-        "logradouro":  "Rua EmÃ­lia Esteves Marques",
+        "logradouro":  "Rua Emília Esteves Marques",
         "complemento":  "",
         "unidade":  "",
-        "bairro":  "TriÃ¢ngulo",
+        "bairro":  "Triângulo",
         "localidade":  "Carangola",
         "uf":  "MG"
     },
@@ -2011,13 +1759,13 @@
         "logradouro":  "Rua Engenheiro Edson Junqueira Passos",
         "complemento":  "",
         "unidade":  "",
-        "bairro":  "TriÃ¢ngulo",
+        "bairro":  "Triângulo",
         "localidade":  "Carangola",
         "uf":  "MG"
     },
     {
         "cep":  "36801-172",
-        "logradouro":  "Rua ErcÃ­lia de Souza Reis",
+        "logradouro":  "Rua Ercília de Souza Reis",
         "complemento":  "",
         "unidade":  "",
         "bairro":  "Santa Maria",
@@ -2029,16 +1777,7 @@
         "logradouro":  "Rua Esmael Meireles da Silva",
         "complemento":  "",
         "unidade":  "",
-        "bairro":  "TriÃ¢ngulo",
-        "localidade":  "Carangola",
-        "uf":  "MG"
-    },
-    {
-        "cep":  "36800-138",
-        "logradouro":  "Rua EspÃ­rito Santo",
-        "complemento":  "",
-        "unidade":  "",
-        "bairro":  "Caixa D\u0027Ãgua",
+        "bairro":  "Triângulo",
         "localidade":  "Carangola",
         "uf":  "MG"
     },
@@ -2062,7 +1801,7 @@
     },
     {
         "cep":  "36801-034",
-        "logradouro":  "Rua EstevÃ£o Rodrigues Pedrosa",
+        "logradouro":  "Rua Estevão Rodrigues Pedrosa",
         "complemento":  "",
         "unidade":  "",
         "bairro":  "Amendoeira",
@@ -2071,16 +1810,16 @@
     },
     {
         "cep":  "36803-154",
-        "logradouro":  "Rua EugÃªnio Ferreira Cancela",
+        "logradouro":  "Rua Eugênio Ferreira Cancela",
         "complemento":  "",
         "unidade":  "",
-        "bairro":  "TriÃ¢ngulo",
+        "bairro":  "Triângulo",
         "localidade":  "Carangola",
         "uf":  "MG"
     },
     {
         "cep":  "36805-078",
-        "logradouro":  "Rua FabÃ­ola Rates de Souza",
+        "logradouro":  "Rua Fabíola Rates de Souza",
         "complemento":  "",
         "unidade":  "",
         "bairro":  "Lacerdina",
@@ -2101,13 +1840,13 @@
         "logradouro":  "Rua Felipe dos Santos",
         "complemento":  "",
         "unidade":  "",
-        "bairro":  "Santa EmÃ­lia",
+        "bairro":  "Santa Emília",
         "localidade":  "Carangola",
         "uf":  "MG"
     },
     {
         "cep":  "36800-184",
-        "logradouro":  "Rua Felipe JosÃ© de Sales",
+        "logradouro":  "Rua Felipe José de Sales",
         "complemento":  "",
         "unidade":  "",
         "bairro":  "Chevrand",
@@ -2128,13 +1867,13 @@
         "logradouro":  "Rua Fervedouro",
         "complemento":  "",
         "unidade":  "",
-        "bairro":  "TriÃ¢ngulo",
+        "bairro":  "Triângulo",
         "localidade":  "Carangola",
         "uf":  "MG"
     },
     {
         "cep":  "36802-002",
-        "logradouro":  "Rua FlÃ¡vio de Oliveira Menicucci",
+        "logradouro":  "Rua Flávio de Oliveira Menicucci",
         "complemento":  "",
         "unidade":  "",
         "bairro":  "Coroado",
@@ -2164,7 +1903,7 @@
         "logradouro":  "Rua Francisco de Figueiredo Nery",
         "complemento":  "(Loteamento Santa Isabel II)",
         "unidade":  "",
-        "bairro":  "TriÃ¢ngulo",
+        "bairro":  "Triângulo",
         "localidade":  "Carangola",
         "uf":  "MG"
     },
@@ -2182,7 +1921,7 @@
         "logradouro":  "Rua Francisco Faria Andrade",
         "complemento":  "",
         "unidade":  "",
-        "bairro":  "TriÃ¢ngulo",
+        "bairro":  "Triângulo",
         "localidade":  "Carangola",
         "uf":  "MG"
     },
@@ -2197,7 +1936,7 @@
     },
     {
         "cep":  "36801-022",
-        "logradouro":  "Rua Francisco JosÃ© Fraga Junior",
+        "logradouro":  "Rua Francisco José Fraga Junior",
         "complemento":  "",
         "unidade":  "",
         "bairro":  "Amendoeira",
@@ -2209,7 +1948,7 @@
         "logradouro":  "Rua Francisco Martins de Oliveira",
         "complemento":  "",
         "unidade":  "",
-        "bairro":  "Caixa D\u0027Ãgua",
+        "bairro":  "Caixa D\u0027Água",
         "localidade":  "Carangola",
         "uf":  "MG"
     },
@@ -2218,7 +1957,7 @@
         "logradouro":  "Rua Francisco Rodrigues de Faria",
         "complemento":  "",
         "unidade":  "",
-        "bairro":  "Santa EmÃ­lia",
+        "bairro":  "Santa Emília",
         "localidade":  "Carangola",
         "uf":  "MG"
     },
@@ -2227,13 +1966,13 @@
         "logradouro":  "Rua Francisco Sozinho Filho",
         "complemento":  "",
         "unidade":  "",
-        "bairro":  "TriÃ¢ngulo",
+        "bairro":  "Triângulo",
         "localidade":  "Carangola",
         "uf":  "MG"
     },
     {
         "cep":  "36801-118",
-        "logradouro":  "Rua Francisco TomÃ©",
+        "logradouro":  "Rua Francisco Tomé",
         "complemento":  "",
         "unidade":  "",
         "bairro":  "Ouro Verde",
@@ -2245,7 +1984,7 @@
         "logradouro":  "Rua Francisco Vicente de Souza",
         "complemento":  "",
         "unidade":  "",
-        "bairro":  "Caixa D\u0027Ãgua",
+        "bairro":  "Caixa D\u0027Água",
         "localidade":  "Carangola",
         "uf":  "MG"
     },
@@ -2254,7 +1993,7 @@
         "logradouro":  "Rua Gabriel da Silva Samagaio",
         "complemento":  "",
         "unidade":  "",
-        "bairro":  "TriÃ¢ngulo",
+        "bairro":  "Triângulo",
         "localidade":  "Carangola",
         "uf":  "MG"
     },
@@ -2299,16 +2038,16 @@
         "logradouro":  "Rua Geraldo Rodrigues de Oliveira",
         "complemento":  "",
         "unidade":  "",
-        "bairro":  "TriÃ¢ngulo",
+        "bairro":  "Triângulo",
         "localidade":  "Carangola",
         "uf":  "MG"
     },
     {
         "cep":  "36800-144",
-        "logradouro":  "Rua GervÃ¡sio Braga",
+        "logradouro":  "Rua Gervásio Braga",
         "complemento":  "",
         "unidade":  "",
-        "bairro":  "Caixa D\u0027Ãgua",
+        "bairro":  "Caixa D\u0027Água",
         "localidade":  "Carangola",
         "uf":  "MG"
     },
@@ -2335,7 +2074,7 @@
         "logradouro":  "Rua Guanayr Agripino Amorim",
         "complemento":  "",
         "unidade":  "",
-        "bairro":  "TriÃ¢ngulo",
+        "bairro":  "Triângulo",
         "localidade":  "Carangola",
         "uf":  "MG"
     },
@@ -2344,7 +2083,7 @@
         "logradouro":  "Rua Guilhermina Lessa da Cunha",
         "complemento":  "",
         "unidade":  "",
-        "bairro":  "TriÃ¢ngulo",
+        "bairro":  "Triângulo",
         "localidade":  "Carangola",
         "uf":  "MG"
     },
@@ -2353,13 +2092,13 @@
         "logradouro":  "Rua H",
         "complemento":  "",
         "unidade":  "",
-        "bairro":  "TriÃ¢ngulo",
+        "bairro":  "Triângulo",
         "localidade":  "Carangola",
         "uf":  "MG"
     },
     {
         "cep":  "36802-156",
-        "logradouro":  "Rua Havenal HorÃ¡cio de Oliveira",
+        "logradouro":  "Rua Havenal Horácio de Oliveira",
         "complemento":  "",
         "unidade":  "",
         "bairro":  "Eldorado",
@@ -2386,16 +2125,16 @@
     },
     {
         "cep":  "36800-154",
-        "logradouro":  "Rua HipÃ³lito Carvalho Neves",
+        "logradouro":  "Rua Hipólito Carvalho Neves",
         "complemento":  "",
         "unidade":  "",
-        "bairro":  "Caixa D\u0027Ãgua",
+        "bairro":  "Caixa D\u0027Água",
         "localidade":  "Carangola",
         "uf":  "MG"
     },
     {
         "cep":  "36800-212",
-        "logradouro":  "Rua HonÃ³rio JosÃ© Pereira",
+        "logradouro":  "Rua Honório José Pereira",
         "complemento":  "",
         "unidade":  "",
         "bairro":  "Chevrand",
@@ -2404,7 +2143,7 @@
     },
     {
         "cep":  "36802-274",
-        "logradouro":  "Rua HorÃ¡cio Alvim",
+        "logradouro":  "Rua Horácio Alvim",
         "complemento":  "",
         "unidade":  "",
         "bairro":  "Floresta",
@@ -2416,13 +2155,13 @@
         "logradouro":  "Rua I",
         "complemento":  "",
         "unidade":  "",
-        "bairro":  "TriÃ¢ngulo",
+        "bairro":  "Triângulo",
         "localidade":  "Carangola",
         "uf":  "MG"
     },
     {
         "cep":  "36800-216",
-        "logradouro":  "Rua IlÃ¡rio BelÃºzio",
+        "logradouro":  "Rua Ilário Belúzio",
         "complemento":  "",
         "unidade":  "",
         "bairro":  "Chevrand",
@@ -2467,7 +2206,7 @@
     },
     {
         "cep":  "36805-086",
-        "logradouro":  "Rua JanuÃ¡ria Antunes Vieira",
+        "logradouro":  "Rua Januária Antunes Vieira",
         "complemento":  "",
         "unidade":  "",
         "bairro":  "Lacerdina",
@@ -2476,7 +2215,7 @@
     },
     {
         "cep":  "36801-144",
-        "logradouro":  "Rua JoÃ£o Belo de Oliveira",
+        "logradouro":  "Rua João Belo de Oliveira",
         "complemento":  "",
         "unidade":  "",
         "bairro":  "Santa Maria",
@@ -2485,7 +2224,7 @@
     },
     {
         "cep":  "36801-188",
-        "logradouro":  "Rua JoÃ£o Francisco Vieira",
+        "logradouro":  "Rua João Francisco Vieira",
         "complemento":  "",
         "unidade":  "",
         "bairro":  "Santa Maria",
@@ -2494,7 +2233,7 @@
     },
     {
         "cep":  "36802-244",
-        "logradouro":  "Rua JoÃ£o Franco Leal",
+        "logradouro":  "Rua João Franco Leal",
         "complemento":  "",
         "unidade":  "",
         "bairro":  "Aeroporto",
@@ -2503,16 +2242,16 @@
     },
     {
         "cep":  "36803-088",
-        "logradouro":  "Rua JoÃ£o Furtado Campos",
+        "logradouro":  "Rua João Furtado Campos",
         "complemento":  "",
         "unidade":  "",
-        "bairro":  "TriÃ¢ngulo",
+        "bairro":  "Triângulo",
         "localidade":  "Carangola",
         "uf":  "MG"
     },
     {
         "cep":  "36800-236",
-        "logradouro":  "Rua JoÃ£o Lopes de Paiva",
+        "logradouro":  "Rua João Lopes de Paiva",
         "complemento":  "",
         "unidade":  "",
         "bairro":  "Chevrand",
@@ -2521,7 +2260,7 @@
     },
     {
         "cep":  "36801-184",
-        "logradouro":  "Rua JoÃ£o Maia",
+        "logradouro":  "Rua João Maia",
         "complemento":  "",
         "unidade":  "",
         "bairro":  "Santa Maria",
@@ -2530,7 +2269,7 @@
     },
     {
         "cep":  "36802-054",
-        "logradouro":  "Rua JoÃ£o Nolasco",
+        "logradouro":  "Rua João Nolasco",
         "complemento":  "",
         "unidade":  "",
         "bairro":  "Coroado",
@@ -2539,25 +2278,25 @@
     },
     {
         "cep":  "36803-024",
-        "logradouro":  "Rua JoÃ£o Pedro MagalhÃ£es LourenÃ§o",
+        "logradouro":  "Rua João Pedro Magalhães Lourenço",
         "complemento":  "",
         "unidade":  "",
-        "bairro":  "TriÃ¢ngulo",
+        "bairro":  "Triângulo",
         "localidade":  "Carangola",
         "uf":  "MG"
     },
     {
         "cep":  "36803-118",
-        "logradouro":  "Rua JoÃ£o Pessoa",
+        "logradouro":  "Rua João Pessoa",
         "complemento":  "",
         "unidade":  "",
-        "bairro":  "TriÃ¢ngulo",
+        "bairro":  "Triângulo",
         "localidade":  "Carangola",
         "uf":  "MG"
     },
     {
         "cep":  "36801-084",
-        "logradouro":  "Rua JoÃ£o Pistono",
+        "logradouro":  "Rua João Pistono",
         "complemento":  "",
         "unidade":  "",
         "bairro":  "Santo Onofre",
@@ -2566,7 +2305,7 @@
     },
     {
         "cep":  "36805-088",
-        "logradouro":  "Rua JoÃ£o Romano Lanes",
+        "logradouro":  "Rua João Romano Lanes",
         "complemento":  "",
         "unidade":  "",
         "bairro":  "Lacerdina",
@@ -2575,10 +2314,10 @@
     },
     {
         "cep":  "36803-168",
-        "logradouro":  "Rua JoÃ£o ThomÃ©",
+        "logradouro":  "Rua João Thomé",
         "complemento":  "",
         "unidade":  "",
-        "bairro":  "TriÃ¢ngulo",
+        "bairro":  "Triângulo",
         "localidade":  "Carangola",
         "uf":  "MG"
     },
@@ -2593,7 +2332,7 @@
     },
     {
         "cep":  "36801-122",
-        "logradouro":  "Rua Joedes D\u0027Ãvilla Boim",
+        "logradouro":  "Rua Joedes D\u0027Ávilla Boim",
         "complemento":  "",
         "unidade":  "",
         "bairro":  "Ouro Verde",
@@ -2614,7 +2353,7 @@
         "logradouro":  "Rua Jonas Gomes Queiroz",
         "complemento":  "",
         "unidade":  "",
-        "bairro":  "Caixa D\u0027Ãgua",
+        "bairro":  "Caixa D\u0027Água",
         "localidade":  "Carangola",
         "uf":  "MG"
     },
@@ -2629,7 +2368,7 @@
     },
     {
         "cep":  "36800-030",
-        "logradouro":  "Rua Jornalista Jandira Machado LourenÃ§o",
+        "logradouro":  "Rua Jornalista Jandira Machado Lourenço",
         "complemento":  "",
         "unidade":  "",
         "bairro":  "Centro",
@@ -2638,34 +2377,34 @@
     },
     {
         "cep":  "36803-070",
-        "logradouro":  "Rua JosÃ© AntÃ´nio Dainese",
+        "logradouro":  "Rua José Antônio Dainese",
         "complemento":  "",
         "unidade":  "",
-        "bairro":  "TriÃ¢ngulo",
+        "bairro":  "Triângulo",
         "localidade":  "Carangola",
         "uf":  "MG"
     },
     {
         "cep":  "36803-090",
-        "logradouro":  "Rua JosÃ© Araujo Loschi",
+        "logradouro":  "Rua José Araujo Loschi",
         "complemento":  "",
         "unidade":  "",
-        "bairro":  "TriÃ¢ngulo",
+        "bairro":  "Triângulo",
         "localidade":  "Carangola",
         "uf":  "MG"
     },
     {
         "cep":  "36800-150",
-        "logradouro":  "Rua JosÃ© Batista Silva",
+        "logradouro":  "Rua José Batista Silva",
         "complemento":  "",
         "unidade":  "",
-        "bairro":  "Caixa D\u0027Ãgua",
+        "bairro":  "Caixa D\u0027Água",
         "localidade":  "Carangola",
         "uf":  "MG"
     },
     {
         "cep":  "36802-066",
-        "logradouro":  "Rua JosÃ© Biajoli",
+        "logradouro":  "Rua José Biajoli",
         "complemento":  "",
         "unidade":  "",
         "bairro":  "Coroado",
@@ -2674,7 +2413,7 @@
     },
     {
         "cep":  "36805-010",
-        "logradouro":  "Rua JosÃ© Carlos Pace",
+        "logradouro":  "Rua José Carlos Pace",
         "complemento":  "",
         "unidade":  "",
         "bairro":  "Varginha (Lacerdinha)",
@@ -2683,16 +2422,16 @@
     },
     {
         "cep":  "36803-052",
-        "logradouro":  "Rua JosÃ© da Silva",
+        "logradouro":  "Rua José da Silva",
         "complemento":  "",
         "unidade":  "",
-        "bairro":  "TriÃ¢ngulo",
+        "bairro":  "Triângulo",
         "localidade":  "Carangola",
         "uf":  "MG"
     },
     {
         "cep":  "36800-238",
-        "logradouro":  "Rua JosÃ© de Paula Ribas",
+        "logradouro":  "Rua José de Paula Ribas",
         "complemento":  "",
         "unidade":  "",
         "bairro":  "Chevrand",
@@ -2701,7 +2440,7 @@
     },
     {
         "cep":  "36801-168",
-        "logradouro":  "Rua JosÃ© Fava",
+        "logradouro":  "Rua José Fava",
         "complemento":  "",
         "unidade":  "",
         "bairro":  "Santa Maria",
@@ -2710,7 +2449,7 @@
     },
     {
         "cep":  "36802-210",
-        "logradouro":  "Rua JosÃ© Figueiredo Lobato",
+        "logradouro":  "Rua José Figueiredo Lobato",
         "complemento":  "",
         "unidade":  "",
         "bairro":  "Novos Tempos",
@@ -2719,7 +2458,7 @@
     },
     {
         "cep":  "36805-020",
-        "logradouro":  "Rua JosÃ© Furtado de Campos",
+        "logradouro":  "Rua José Furtado de Campos",
         "complemento":  "",
         "unidade":  "",
         "bairro":  "Varginha (Lacerdinha)",
@@ -2728,7 +2467,7 @@
     },
     {
         "cep":  "36802-216",
-        "logradouro":  "Rua JosÃ© Homero da Silva",
+        "logradouro":  "Rua José Homero da Silva",
         "complemento":  "",
         "unidade":  "",
         "bairro":  "Novos Tempos",
@@ -2737,7 +2476,7 @@
     },
     {
         "cep":  "36802-180",
-        "logradouro":  "Rua JosÃ© Maria Campos Gomes",
+        "logradouro":  "Rua José Maria Campos Gomes",
         "complemento":  "",
         "unidade":  "",
         "bairro":  "Eldorado",
@@ -2746,16 +2485,16 @@
     },
     {
         "cep":  "36803-148",
-        "logradouro":  "Rua JosÃ© Martins de Melo",
+        "logradouro":  "Rua José Martins de Melo",
         "complemento":  "",
         "unidade":  "",
-        "bairro":  "TriÃ¢ngulo",
+        "bairro":  "Triângulo",
         "localidade":  "Carangola",
         "uf":  "MG"
     },
     {
         "cep":  "36802-004",
-        "logradouro":  "Rua JosÃ© Matheus Lopes",
+        "logradouro":  "Rua José Matheus Lopes",
         "complemento":  "",
         "unidade":  "",
         "bairro":  "Coroado",
@@ -2764,7 +2503,7 @@
     },
     {
         "cep":  "36800-102",
-        "logradouro":  "Rua JosÃ© PatrocÃ­nio",
+        "logradouro":  "Rua José Patrocínio",
         "complemento":  "",
         "unidade":  "",
         "bairro":  "Centro",
@@ -2773,7 +2512,7 @@
     },
     {
         "cep":  "36801-164",
-        "logradouro":  "Rua JosÃ© Peron Sobrinho",
+        "logradouro":  "Rua José Peron Sobrinho",
         "complemento":  "",
         "unidade":  "",
         "bairro":  "Santa Maria",
@@ -2782,16 +2521,16 @@
     },
     {
         "cep":  "36800-152",
-        "logradouro":  "Rua JosÃ© Ribeiro de AraÃºjo",
+        "logradouro":  "Rua José Ribeiro de Araújo",
         "complemento":  "",
         "unidade":  "",
-        "bairro":  "Caixa D\u0027Ãgua",
+        "bairro":  "Caixa D\u0027Água",
         "localidade":  "Carangola",
         "uf":  "MG"
     },
     {
         "cep":  "36801-028",
-        "logradouro":  "Rua JosÃ© Ribeiro de Miranda",
+        "logradouro":  "Rua José Ribeiro de Miranda",
         "complemento":  "",
         "unidade":  "",
         "bairro":  "Amendoeira",
@@ -2848,7 +2587,7 @@
         "logradouro":  "Rua Juiz Paes Barreto",
         "complemento":  "",
         "unidade":  "",
-        "bairro":  "Caixa D\u0027Ãgua",
+        "bairro":  "Caixa D\u0027Água",
         "localidade":  "Carangola",
         "uf":  "MG"
     },
@@ -2875,13 +2614,13 @@
         "logradouro":  "Rua Lacerdina",
         "complemento":  "",
         "unidade":  "",
-        "bairro":  "TriÃ¢ngulo",
+        "bairro":  "Triângulo",
         "localidade":  "Carangola",
         "uf":  "MG"
     },
     {
         "cep":  "36802-126",
-        "logradouro":  "Rua Lanny Calito AbrahÃ£o",
+        "logradouro":  "Rua Lanny Calito Abrahão",
         "complemento":  "",
         "unidade":  "",
         "bairro":  "Eldorado",
@@ -2890,7 +2629,7 @@
     },
     {
         "cep":  "36802-176",
-        "logradouro":  "Rua Laurindo de SÃ¡ Viana",
+        "logradouro":  "Rua Laurindo de Sá Viana",
         "complemento":  "",
         "unidade":  "",
         "bairro":  "Eldorado",
@@ -2926,7 +2665,7 @@
     },
     {
         "cep":  "36802-152",
-        "logradouro":  "Rua Luiz LourenÃ§o Lima",
+        "logradouro":  "Rua Luiz Lourenço Lima",
         "complemento":  "",
         "unidade":  "",
         "bairro":  "Eldorado",
@@ -2952,33 +2691,6 @@
         "uf":  "MG"
     },
     {
-        "cep":  "36805-062",
-        "logradouro":  "Rua MÃ¡rio de Andrade",
-        "complemento":  "",
-        "unidade":  "",
-        "bairro":  "Lacerdina",
-        "localidade":  "Carangola",
-        "uf":  "MG"
-    },
-    {
-        "cep":  "36801-110",
-        "logradouro":  "Rua MÃ¡rio Dutra Pettersen",
-        "complemento":  "",
-        "unidade":  "",
-        "bairro":  "Ouro Verde",
-        "localidade":  "Carangola",
-        "uf":  "MG"
-    },
-    {
-        "cep":  "36800-050",
-        "logradouro":  "Rua Madre Maria CecÃ­lia Juliana de SÃ£o JosÃ©",
-        "complemento":  "",
-        "unidade":  "",
-        "bairro":  "Centro",
-        "localidade":  "Carangola",
-        "uf":  "MG"
-    },
-    {
         "cep":  "36800-050",
         "logradouro":  "Rua Madre Maria Cecília Juliana de São José",
         "complemento":  "",
@@ -2989,7 +2701,7 @@
     },
     {
         "cep":  "36801-090",
-        "logradouro":  "Rua MagalhÃ£es de Queiroz",
+        "logradouro":  "Rua Magalhães de Queiroz",
         "complemento":  "",
         "unidade":  "",
         "bairro":  "Ouro Verde",
@@ -3007,7 +2719,7 @@
     },
     {
         "cep":  "36803-242",
-        "logradouro":  "Rua ManhuaÃ§u",
+        "logradouro":  "Rua Manhuaçu",
         "complemento":  "",
         "unidade":  "",
         "bairro":  "Panorama",
@@ -3082,7 +2794,7 @@
         "logradouro":  "Rua Manoel Paiva",
         "complemento":  "",
         "unidade":  "",
-        "bairro":  "TriÃ¢ngulo",
+        "bairro":  "Triângulo",
         "localidade":  "Carangola",
         "uf":  "MG"
     },
@@ -3097,7 +2809,7 @@
     },
     {
         "cep":  "36801-152",
-        "logradouro":  "Rua MarcionÃ­lio Carlos de Souza",
+        "logradouro":  "Rua Marcionílio Carlos de Souza",
         "complemento":  "",
         "unidade":  "",
         "bairro":  "Santa Maria",
@@ -3106,7 +2818,7 @@
     },
     {
         "cep":  "36800-234",
-        "logradouro":  "Rua Marco AntÃ´nio Costa de Oliveira",
+        "logradouro":  "Rua Marco Antônio Costa de Oliveira",
         "complemento":  "",
         "unidade":  "",
         "bairro":  "Chevrand",
@@ -3133,7 +2845,7 @@
     },
     {
         "cep":  "36802-202",
-        "logradouro":  "Rua Maria Alice MagalhÃ£es Lima",
+        "logradouro":  "Rua Maria Alice Magalhães Lima",
         "complemento":  "",
         "unidade":  "",
         "bairro":  "Novos Tempos",
@@ -3142,7 +2854,7 @@
     },
     {
         "cep":  "36805-066",
-        "logradouro":  "Rua Maria das GraÃ§as Broquini Pinto",
+        "logradouro":  "Rua Maria das Graças Broquini Pinto",
         "complemento":  "",
         "unidade":  "",
         "bairro":  "Lacerdina",
@@ -3154,13 +2866,13 @@
         "logradouro":  "Rua Maria de Sales Coimbra",
         "complemento":  "",
         "unidade":  "",
-        "bairro":  "TriÃ¢ngulo",
+        "bairro":  "Triângulo",
         "localidade":  "Carangola",
         "uf":  "MG"
     },
     {
         "cep":  "36801-078",
-        "logradouro":  "Rua Maria EugÃªnia de Souza",
+        "logradouro":  "Rua Maria Eugênia de Souza",
         "complemento":  "",
         "unidade":  "",
         "bairro":  "Santo Onofre",
@@ -3169,19 +2881,10 @@
     },
     {
         "cep":  "36802-134",
-        "logradouro":  "Rua Maria JosÃ© de Souza Grimaldi",
+        "logradouro":  "Rua Maria José de Souza Grimaldi",
         "complemento":  "",
         "unidade":  "",
         "bairro":  "Eldorado",
-        "localidade":  "Carangola",
-        "uf":  "MG"
-    },
-    {
-        "cep":  "36805-022",
-        "logradouro":  "Rua Maria JosÃ© dos Santos",
-        "complemento":  "",
-        "unidade":  "",
-        "bairro":  "Varginha (Lacerdinha)",
         "localidade":  "Carangola",
         "uf":  "MG"
     },
@@ -3196,7 +2899,7 @@
     },
     {
         "cep":  "36801-064",
-        "logradouro":  "Rua Maria MagalhÃ£es",
+        "logradouro":  "Rua Maria Magalhães",
         "complemento":  "",
         "unidade":  "",
         "bairro":  "Santo Onofre",
@@ -3235,7 +2938,7 @@
         "logradouro":  "Rua Mariano Novais de Melo",
         "complemento":  "",
         "unidade":  "",
-        "bairro":  "Caixa D\u0027Ãgua",
+        "bairro":  "Caixa D\u0027Água",
         "localidade":  "Carangola",
         "uf":  "MG"
     },
@@ -3245,6 +2948,24 @@
         "complemento":  "",
         "unidade":  "",
         "bairro":  "Coroado",
+        "localidade":  "Carangola",
+        "uf":  "MG"
+    },
+    {
+        "cep":  "36805-062",
+        "logradouro":  "Rua Mário de Andrade",
+        "complemento":  "",
+        "unidade":  "",
+        "bairro":  "Lacerdina",
+        "localidade":  "Carangola",
+        "uf":  "MG"
+    },
+    {
+        "cep":  "36801-110",
+        "logradouro":  "Rua Mário Dutra Pettersen",
+        "complemento":  "",
+        "unidade":  "",
+        "bairro":  "Ouro Verde",
         "localidade":  "Carangola",
         "uf":  "MG"
     },
@@ -3259,10 +2980,10 @@
     },
     {
         "cep":  "36803-004",
-        "logradouro":  "Rua Mauro Lopes ValadÃ£o",
+        "logradouro":  "Rua Mauro Lopes Valadão",
         "complemento":  "",
         "unidade":  "",
-        "bairro":  "TriÃ¢ngulo",
+        "bairro":  "Triângulo",
         "localidade":  "Carangola",
         "uf":  "MG"
     },
@@ -3295,7 +3016,7 @@
     },
     {
         "cep":  "36801-054",
-        "logradouro":  "Rua MoisÃ©s Pedro Gomes",
+        "logradouro":  "Rua Moisés Pedro Gomes",
         "complemento":  "",
         "unidade":  "",
         "bairro":  "Santo Onofre",
@@ -3307,13 +3028,13 @@
         "logradouro":  "Rua Moreira Carneiro",
         "complemento":  "",
         "unidade":  "",
-        "bairro":  "Caixa D\u0027Ãgua",
+        "bairro":  "Caixa D\u0027Água",
         "localidade":  "Carangola",
         "uf":  "MG"
     },
     {
         "cep":  "36803-234",
-        "logradouro":  "Rua MuriaÃ©",
+        "logradouro":  "Rua Muriaé",
         "complemento":  "",
         "unidade":  "",
         "bairro":  "Panorama",
@@ -3379,7 +3100,7 @@
         "logradouro":  "Rua Nelson Silva",
         "complemento":  "",
         "unidade":  "",
-        "bairro":  "Caixa D\u0027Ãgua",
+        "bairro":  "Caixa D\u0027Água",
         "localidade":  "Carangola",
         "uf":  "MG"
     },
@@ -3394,7 +3115,7 @@
     },
     {
         "cep":  "36801-017",
-        "logradouro":  "Rua Newton BaiÃ£o de Azevedo",
+        "logradouro":  "Rua Newton Baião de Azevedo",
         "complemento":  "",
         "unidade":  "",
         "bairro":  "Amendoeira",
@@ -3412,19 +3133,10 @@
     },
     {
         "cep":  "36805-084",
-        "logradouro":  "Rua NoÃ© Cesar da Cunha",
+        "logradouro":  "Rua Noé Cesar da Cunha",
         "complemento":  "",
         "unidade":  "",
         "bairro":  "Lacerdina",
-        "localidade":  "Carangola",
-        "uf":  "MG"
-    },
-    {
-        "cep":  "36803-158",
-        "logradouro":  "Rua Nossa Senhora das GraÃ§as",
-        "complemento":  "",
-        "unidade":  "",
-        "bairro":  "TriÃ¢ngulo",
         "localidade":  "Carangola",
         "uf":  "MG"
     },
@@ -3442,7 +3154,7 @@
         "logradouro":  "Rua Nossa Senhora do Amparo",
         "complemento":  "",
         "unidade":  "",
-        "bairro":  "TriÃ¢ngulo",
+        "bairro":  "Triângulo",
         "localidade":  "Carangola",
         "uf":  "MG"
     },
@@ -3451,22 +3163,22 @@
         "logradouro":  "Rua Nossa Senhora do Carmo",
         "complemento":  "",
         "unidade":  "",
-        "bairro":  "TriÃ¢ngulo",
+        "bairro":  "Triângulo",
         "localidade":  "Carangola",
         "uf":  "MG"
     },
     {
         "cep":  "36803-116",
-        "logradouro":  "Rua Olavo Augusto de MagalhÃ£es",
+        "logradouro":  "Rua Olavo Augusto de Magalhães",
         "complemento":  "",
         "unidade":  "",
-        "bairro":  "TriÃ¢ngulo",
+        "bairro":  "Triângulo",
         "localidade":  "Carangola",
         "uf":  "MG"
     },
     {
         "cep":  "36801-100",
-        "logradouro":  "Rua OlegÃ¡rio Maciel",
+        "logradouro":  "Rua Olegário Maciel",
         "complemento":  "",
         "unidade":  "",
         "bairro":  "Ouro Verde",
@@ -3492,15 +3204,6 @@
         "uf":  "MG"
     },
     {
-        "cep":  "36801-130",
-        "logradouro":  "Rua OtÃ¡vio Avelino de Castro",
-        "complemento":  "",
-        "unidade":  "",
-        "bairro":  "Santa Maria",
-        "localidade":  "Carangola",
-        "uf":  "MG"
-    },
-    {
         "cep":  "36801-040",
         "logradouro":  "Rua Otavio Artur Mafra",
         "complemento":  "",
@@ -3510,11 +3213,11 @@
         "uf":  "MG"
     },
     {
-        "cep":  "36801-096",
-        "logradouro":  "Rua Padre AntÃ´nio Caseletto",
+        "cep":  "36801-130",
+        "logradouro":  "Rua Otávio Avelino de Castro",
         "complemento":  "",
         "unidade":  "",
-        "bairro":  "Ouro Verde",
+        "bairro":  "Santa Maria",
         "localidade":  "Carangola",
         "uf":  "MG"
     },
@@ -3524,15 +3227,6 @@
         "complemento":  "",
         "unidade":  "",
         "bairro":  "Ouro Verde",
-        "localidade":  "Carangola",
-        "uf":  "MG"
-    },
-    {
-        "cep":  "36800-080",
-        "logradouro":  "Rua Padre CÃ¢ndido",
-        "complemento":  "",
-        "unidade":  "",
-        "bairro":  "Centro",
         "localidade":  "Carangola",
         "uf":  "MG"
     },
@@ -3550,16 +3244,7 @@
         "logradouro":  "Rua Padre Fernando Mestre",
         "complemento":  "",
         "unidade":  "",
-        "bairro":  "TriÃ¢ngulo",
-        "localidade":  "Carangola",
-        "uf":  "MG"
-    },
-    {
-        "cep":  "36800-232",
-        "logradouro":  "Rua Padre JosÃ© de Souza Lucas",
-        "complemento":  "",
-        "unidade":  "",
-        "bairro":  "Chevrand",
+        "bairro":  "Triângulo",
         "localidade":  "Carangola",
         "uf":  "MG"
     },
@@ -3574,10 +3259,10 @@
     },
     {
         "cep":  "36803-084",
-        "logradouro":  "Rua Paulo Lopes de AraÃºjo",
+        "logradouro":  "Rua Paulo Lopes de Araújo",
         "complemento":  "",
         "unidade":  "",
-        "bairro":  "TriÃ¢ngulo",
+        "bairro":  "Triângulo",
         "localidade":  "Carangola",
         "uf":  "MG"
     },
@@ -3586,7 +3271,7 @@
         "logradouro":  "Rua Paulo Marques Figueiras",
         "complemento":  "",
         "unidade":  "",
-        "bairro":  "TriÃ¢ngulo",
+        "bairro":  "Triângulo",
         "localidade":  "Carangola",
         "uf":  "MG"
     },
@@ -3613,7 +3298,7 @@
         "logradouro":  "Rua Pedro Catarino da Silva",
         "complemento":  "",
         "unidade":  "",
-        "bairro":  "Santa EmÃ­lia",
+        "bairro":  "Santa Emília",
         "localidade":  "Carangola",
         "uf":  "MG"
     },
@@ -3631,7 +3316,7 @@
         "logradouro":  "Rua Pedro Domingues",
         "complemento":  "",
         "unidade":  "",
-        "bairro":  "TriÃ¢ngulo",
+        "bairro":  "Triângulo",
         "localidade":  "Carangola",
         "uf":  "MG"
     },
@@ -3640,7 +3325,7 @@
         "logradouro":  "Rua Pedro Vieira",
         "complemento":  "",
         "unidade":  "",
-        "bairro":  "TriÃ¢ngulo",
+        "bairro":  "Triângulo",
         "localidade":  "Carangola",
         "uf":  "MG"
     },
@@ -3655,25 +3340,7 @@
     },
     {
         "cep":  "36802-206",
-        "logradouro":  "Rua Prefeito AntÃ´nio Ferreira da Silva",
-        "complemento":  "",
-        "unidade":  "",
-        "bairro":  "Novos Tempos",
-        "localidade":  "Carangola",
-        "uf":  "MG"
-    },
-    {
-        "cep":  "36802-206",
         "logradouro":  "Rua Prefeito Antônio Ferreira da Silva",
-        "complemento":  "",
-        "unidade":  "",
-        "bairro":  "Novos Tempos",
-        "localidade":  "Carangola",
-        "uf":  "MG"
-    },
-    {
-        "cep":  "36802-200",
-        "logradouro":  "Rua Prefeito JosÃ© Carlos de Souza",
         "complemento":  "",
         "unidade":  "",
         "bairro":  "Novos Tempos",
@@ -3712,7 +3379,7 @@
         "logradouro":  "Rua Professor Augusto Amarante",
         "complemento":  "",
         "unidade":  "",
-        "bairro":  "Caixa D\u0027Ãgua",
+        "bairro":  "Caixa D\u0027Água",
         "localidade":  "Carangola",
         "uf":  "MG"
     },
@@ -3722,15 +3389,6 @@
         "complemento":  "",
         "unidade":  "",
         "bairro":  "Chevrand",
-        "localidade":  "Carangola",
-        "uf":  "MG"
-    },
-    {
-        "cep":  "36802-020",
-        "logradouro":  "Rua Professor Luiz VictÃ³ria",
-        "complemento":  "",
-        "unidade":  "",
-        "bairro":  "Coroado",
         "localidade":  "Carangola",
         "uf":  "MG"
     },
@@ -3754,15 +3412,6 @@
     },
     {
         "cep":  "36802-232",
-        "logradouro":  "Rua Professora EulÃ¡lia Guarinello",
-        "complemento":  "",
-        "unidade":  "",
-        "bairro":  "Aeroporto",
-        "localidade":  "Carangola",
-        "uf":  "MG"
-    },
-    {
-        "cep":  "36802-232",
         "logradouro":  "Rua Professora Eulália Guarinello",
         "complemento":  "",
         "unidade":  "",
@@ -3776,15 +3425,6 @@
         "complemento":  "",
         "unidade":  "",
         "bairro":  "Chevrand",
-        "localidade":  "Carangola",
-        "uf":  "MG"
-    },
-    {
-        "cep":  "36802-208",
-        "logradouro":  "Rua Professora NÃ©sia Martins Rocha",
-        "complemento":  "",
-        "unidade":  "",
-        "bairro":  "Novos Tempos",
         "localidade":  "Carangola",
         "uf":  "MG"
     },
@@ -3808,15 +3448,6 @@
     },
     {
         "cep":  "36800-194",
-        "logradouro":  "Rua Professora VictÃ³ria Haddad",
-        "complemento":  "",
-        "unidade":  "",
-        "bairro":  "Chevrand",
-        "localidade":  "Carangola",
-        "uf":  "MG"
-    },
-    {
-        "cep":  "36800-194",
         "logradouro":  "Rua Professora Victória Haddad",
         "complemento":  "",
         "unidade":  "",
@@ -3826,7 +3457,7 @@
     },
     {
         "cep":  "36800-042",
-        "logradouro":  "Rua Quintino BocaiÃºva",
+        "logradouro":  "Rua Quintino Bocaiúva",
         "complemento":  "",
         "unidade":  "",
         "bairro":  "Centro",
@@ -3889,7 +3520,7 @@
     },
     {
         "cep":  "36802-068",
-        "logradouro":  "Rua RogÃ©rio Fernandes de Lima",
+        "logradouro":  "Rua Rogério Fernandes de Lima",
         "complemento":  "",
         "unidade":  "",
         "bairro":  "Coroado",
@@ -3898,7 +3529,7 @@
     },
     {
         "cep":  "36801-038",
-        "logradouro":  "Rua RomÃ¡rio Rodrigues da Silva",
+        "logradouro":  "Rua Romário Rodrigues da Silva",
         "complemento":  "",
         "unidade":  "",
         "bairro":  "Amendoeira",
@@ -3916,7 +3547,7 @@
     },
     {
         "cep":  "36802-145",
-        "logradouro":  "Rua Rua Laura EmÃ­lia Costa DonÃ¡",
+        "logradouro":  "Rua Rua Laura Emília Costa Doná",
         "complemento":  "(Loteamento Vilage do Campo)",
         "unidade":  "",
         "bairro":  "Eldorado",
@@ -3924,53 +3555,8 @@
         "uf":  "MG"
     },
     {
-        "cep":  "36803-232",
-        "logradouro":  "Rua SÃ£o Bento",
-        "complemento":  "",
-        "unidade":  "",
-        "bairro":  "Panorama",
-        "localidade":  "Carangola",
-        "uf":  "MG"
-    },
-    {
-        "cep":  "36801-060",
-        "logradouro":  "Rua SÃ£o Francisco",
-        "complemento":  "",
-        "unidade":  "",
-        "bairro":  "Santo Onofre",
-        "localidade":  "Carangola",
-        "uf":  "MG"
-    },
-    {
-        "cep":  "36802-218",
-        "logradouro":  "Rua SÃ£o Francisco do GlÃ³ria",
-        "complemento":  "",
-        "unidade":  "",
-        "bairro":  "Novos Tempos",
-        "localidade":  "Carangola",
-        "uf":  "MG"
-    },
-    {
-        "cep":  "36803-146",
-        "logradouro":  "Rua SÃ£o JosÃ©",
-        "complemento":  "",
-        "unidade":  "",
-        "bairro":  "TriÃ¢ngulo",
-        "localidade":  "Carangola",
-        "uf":  "MG"
-    },
-    {
-        "cep":  "36803-112",
-        "logradouro":  "Rua SÃ£o Pedro",
-        "complemento":  "",
-        "unidade":  "",
-        "bairro":  "TriÃ¢ngulo",
-        "localidade":  "Carangola",
-        "uf":  "MG"
-    },
-    {
         "cep":  "36801-106",
-        "logradouro":  "Rua SalomÃ£o Gabriel",
+        "logradouro":  "Rua Salomão Gabriel",
         "complemento":  "",
         "unidade":  "",
         "bairro":  "Ouro Verde",
@@ -3992,15 +3578,6 @@
         "complemento":  "",
         "unidade":  "",
         "bairro":  "Santa Maria",
-        "localidade":  "Carangola",
-        "uf":  "MG"
-    },
-    {
-        "cep":  "36801-058",
-        "logradouro":  "Rua Santo AntÃ´nio",
-        "complemento":  "",
-        "unidade":  "",
-        "bairro":  "Santo Onofre",
         "localidade":  "Carangola",
         "uf":  "MG"
     },
@@ -4069,7 +3646,7 @@
     },
     {
         "cep":  "36802-162",
-        "logradouro":  "Rua SebastiÃ£o Alves Ferreira",
+        "logradouro":  "Rua Sebastião Alves Ferreira",
         "complemento":  "",
         "unidade":  "",
         "bairro":  "Eldorado",
@@ -4078,7 +3655,7 @@
     },
     {
         "cep":  "36800-208",
-        "logradouro":  "Rua SebastiÃ£o Avelino de Castro",
+        "logradouro":  "Rua Sebastião Avelino de Castro",
         "complemento":  "",
         "unidade":  "",
         "bairro":  "Chevrand",
@@ -4087,8 +3664,8 @@
     },
     {
         "cep":  "36802-009",
-        "logradouro":  "Rua SebastiÃ£o Francisco de Abreu",
-        "complemento":  "(Loteamento Jardim dos IpÃªs II)",
+        "logradouro":  "Rua Sebastião Francisco de Abreu",
+        "complemento":  "(Loteamento Jardim dos Ipês II)",
         "unidade":  "",
         "bairro":  "Coroado",
         "localidade":  "Carangola",
@@ -4096,7 +3673,7 @@
     },
     {
         "cep":  "36801-000",
-        "logradouro":  "Rua SebastiÃ£o Frossard",
+        "logradouro":  "Rua Sebastião Frossard",
         "complemento":  "",
         "unidade":  "",
         "bairro":  "Amendoeira",
@@ -4105,10 +3682,10 @@
     },
     {
         "cep":  "36803-078",
-        "logradouro":  "Rua SebastiÃ£o Honorato Rodrigues",
+        "logradouro":  "Rua Sebastião Honorato Rodrigues",
         "complemento":  "",
         "unidade":  "",
-        "bairro":  "TriÃ¢ngulo",
+        "bairro":  "Triângulo",
         "localidade":  "Carangola",
         "uf":  "MG"
     },
@@ -4117,7 +3694,7 @@
         "logradouro":  "Rua Sete de Setembro",
         "complemento":  "",
         "unidade":  "",
-        "bairro":  "TriÃ¢ngulo",
+        "bairro":  "Triângulo",
         "localidade":  "Carangola",
         "uf":  "MG"
     },
@@ -4132,7 +3709,7 @@
     },
     {
         "cep":  "36805-018",
-        "logradouro":  "Rua TacÃ­lio Nogueira da Costa",
+        "logradouro":  "Rua Tacílio Nogueira da Costa",
         "complemento":  "",
         "unidade":  "",
         "bairro":  "Varginha (Lacerdinha)",
@@ -4141,7 +3718,7 @@
     },
     {
         "cep":  "36805-048",
-        "logradouro":  "Rua TelÃ­nio Grossi",
+        "logradouro":  "Rua Telínio Grossi",
         "complemento":  "",
         "unidade":  "",
         "bairro":  "Lacerdina",
@@ -4171,7 +3748,7 @@
         "logradouro":  "Rua Thomaz Gonzaga",
         "complemento":  "",
         "unidade":  "",
-        "bairro":  "Santa EmÃ­lia",
+        "bairro":  "Santa Emília",
         "localidade":  "Carangola",
         "uf":  "MG"
     },
@@ -4180,7 +3757,7 @@
         "logradouro":  "Rua Thomaz Grimaldi",
         "complemento":  "",
         "unidade":  "",
-        "bairro":  "Caixa D\u0027Ãgua",
+        "bairro":  "Caixa D\u0027Água",
         "localidade":  "Carangola",
         "uf":  "MG"
     },
@@ -4222,7 +3799,7 @@
     },
     {
         "cep":  "36802-166",
-        "logradouro":  "Rua Ulisses GuimarÃ£es",
+        "logradouro":  "Rua Ulisses Guimarães",
         "complemento":  "",
         "unidade":  "",
         "bairro":  "Eldorado",
@@ -4231,19 +3808,10 @@
     },
     {
         "cep":  "36802-214",
-        "logradouro":  "Rua Vasco GonÃ§alves Pereira",
+        "logradouro":  "Rua Vasco Gonçalves Pereira",
         "complemento":  "",
         "unidade":  "",
         "bairro":  "Novos Tempos",
-        "localidade":  "Carangola",
-        "uf":  "MG"
-    },
-    {
-        "cep":  "36800-126",
-        "logradouro":  "Rua Vereador ClÃ³vis Campos Alvim",
-        "complemento":  "",
-        "unidade":  "",
-        "bairro":  "Caixa D\u0027Ãgua",
         "localidade":  "Carangola",
         "uf":  "MG"
     },
@@ -4258,15 +3826,6 @@
     },
     {
         "cep":  "36800-130",
-        "logradouro":  "Rua Vereador SÃ©rgio Luiz Montes",
-        "complemento":  "",
-        "unidade":  "",
-        "bairro":  "Caixa D\u0027Ãgua",
-        "localidade":  "Carangola",
-        "uf":  "MG"
-    },
-    {
-        "cep":  "36800-130",
         "logradouro":  "Rua Vereador Sérgio Luiz Montes",
         "complemento":  "",
         "unidade":  "",
@@ -4276,7 +3835,7 @@
     },
     {
         "cep":  "36801-134",
-        "logradouro":  "Rua Vicente de Paula GuimarÃ£es",
+        "logradouro":  "Rua Vicente de Paula Guimarães",
         "complemento":  "",
         "unidade":  "",
         "bairro":  "Santa Maria",
@@ -4288,7 +3847,7 @@
         "logradouro":  "Rua Vinte e Cinco de Dezembro",
         "complemento":  "",
         "unidade":  "",
-        "bairro":  "TriÃ¢ngulo",
+        "bairro":  "Triângulo",
         "localidade":  "Carangola",
         "uf":  "MG"
     },
@@ -4297,13 +3856,13 @@
         "logradouro":  "Rua Vinte e Um de Abril",
         "complemento":  "",
         "unidade":  "",
-        "bairro":  "TriÃ¢ngulo",
+        "bairro":  "Triângulo",
         "localidade":  "Carangola",
         "uf":  "MG"
     },
     {
         "cep":  "36802-024",
-        "logradouro":  "Rua VirgÃ­lio Justiniano Alves",
+        "logradouro":  "Rua Virgílio Justiniano Alves",
         "complemento":  "",
         "unidade":  "",
         "bairro":  "Coroado",
@@ -4315,7 +3874,7 @@
         "logradouro":  "Rua Vista Alegre",
         "complemento":  "",
         "unidade":  "",
-        "bairro":  "TriÃ¢ngulo",
+        "bairro":  "Triângulo",
         "localidade":  "Carangola",
         "uf":  "MG"
     },
@@ -4333,7 +3892,7 @@
         "logradouro":  "Rua Waltencyr Maia Franco Leal",
         "complemento":  "",
         "unidade":  "",
-        "bairro":  "Caixa D\u0027Ãgua",
+        "bairro":  "Caixa D\u0027Água",
         "localidade":  "Carangola",
         "uf":  "MG"
     },
@@ -4342,7 +3901,7 @@
         "logradouro":  "Rua Walter Barbosa Souza",
         "complemento":  "",
         "unidade":  "",
-        "bairro":  "TriÃ¢ngulo",
+        "bairro":  "Triângulo",
         "localidade":  "Carangola",
         "uf":  "MG"
     },
@@ -4351,7 +3910,7 @@
         "logradouro":  "Rua Wanda Zamith Leite",
         "complemento":  "",
         "unidade":  "",
-        "bairro":  "Caixa D\u0027Ãgua",
+        "bairro":  "Caixa D\u0027Água",
         "localidade":  "Carangola",
         "uf":  "MG"
     },
@@ -4468,13 +4027,13 @@
         "logradouro":  "Travessa Ana Lucas",
         "complemento":  "",
         "unidade":  "",
-        "bairro":  "TriÃ¢ngulo",
+        "bairro":  "Triângulo",
         "localidade":  "Carangola",
         "uf":  "MG"
     },
     {
         "cep":  "36802-168",
-        "logradouro":  "Travessa AntÃ´nio Augusto de Albuquerque",
+        "logradouro":  "Travessa Antônio Augusto de Albuquerque",
         "complemento":  "",
         "unidade":  "",
         "bairro":  "Eldorado",
@@ -4483,7 +4042,7 @@
     },
     {
         "cep":  "36800-092",
-        "logradouro":  "Travessa AntÃ´nio Themudo",
+        "logradouro":  "Travessa Antônio Themudo",
         "complemento":  "",
         "unidade":  "",
         "bairro":  "Centro",
@@ -4492,10 +4051,10 @@
     },
     {
         "cep":  "36803-002",
-        "logradouro":  "Travessa AntÃ´nio Themudo",
+        "logradouro":  "Travessa Antônio Themudo",
         "complemento":  "",
         "unidade":  "",
-        "bairro":  "TriÃ¢ngulo",
+        "bairro":  "Triângulo",
         "localidade":  "Carangola",
         "uf":  "MG"
     },
@@ -4504,7 +4063,7 @@
         "logradouro":  "Travessa Ary Haddad Mergh",
         "complemento":  "",
         "unidade":  "",
-        "bairro":  "TriÃ¢ngulo",
+        "bairro":  "Triângulo",
         "localidade":  "Carangola",
         "uf":  "MG"
     },
@@ -4531,16 +4090,7 @@
         "logradouro":  "Travessa Comendador Salermo Barbosa",
         "complemento":  "",
         "unidade":  "",
-        "bairro":  "Caixa D\u0027Ãgua",
-        "localidade":  "Carangola",
-        "uf":  "MG"
-    },
-    {
-        "cep":  "36802-170",
-        "logradouro":  "Travessa Coronel Agostinho BrandÃ£o",
-        "complemento":  "",
-        "unidade":  "",
-        "bairro":  "Eldorado",
+        "bairro":  "Caixa D\u0027Água",
         "localidade":  "Carangola",
         "uf":  "MG"
     },
@@ -4567,16 +4117,7 @@
         "logradouro":  "Travessa Dario Alves Milagres",
         "complemento":  "",
         "unidade":  "",
-        "bairro":  "TriÃ¢ngulo",
-        "localidade":  "Carangola",
-        "uf":  "MG"
-    },
-    {
-        "cep":  "36800-100",
-        "logradouro":  "Travessa Domingos JosÃ© Pereira Marques",
-        "complemento":  "",
-        "unidade":  "",
-        "bairro":  "Centro",
+        "bairro":  "Triângulo",
         "localidade":  "Carangola",
         "uf":  "MG"
     },
@@ -4594,7 +4135,7 @@
         "logradouro":  "Travessa Doutor Malvino Dutra Carvalho",
         "complemento":  "",
         "unidade":  "",
-        "bairro":  "Caixa D\u0027Ãgua",
+        "bairro":  "Caixa D\u0027Água",
         "localidade":  "Carangola",
         "uf":  "MG"
     },
@@ -4603,7 +4144,7 @@
         "logradouro":  "Travessa Humberto Salerno",
         "complemento":  "",
         "unidade":  "",
-        "bairro":  "TriÃ¢ngulo",
+        "bairro":  "Triângulo",
         "localidade":  "Carangola",
         "uf":  "MG"
     },
@@ -4618,16 +4159,16 @@
     },
     {
         "cep":  "36800-142",
-        "logradouro":  "Travessa Joaquim EugÃªnio Ferreira",
+        "logradouro":  "Travessa Joaquim Eugênio Ferreira",
         "complemento":  "",
         "unidade":  "",
-        "bairro":  "Caixa D\u0027Ãgua",
+        "bairro":  "Caixa D\u0027Água",
         "localidade":  "Carangola",
         "uf":  "MG"
     },
     {
         "cep":  "36800-190",
-        "logradouro":  "Travessa JosÃ© Castro Melo",
+        "logradouro":  "Travessa José Castro Melo",
         "complemento":  "",
         "unidade":  "",
         "bairro":  "Chevrand",
@@ -4636,10 +4177,10 @@
     },
     {
         "cep":  "36803-106",
-        "logradouro":  "Travessa JosÃ© Joaquim Ferreira",
+        "logradouro":  "Travessa José Joaquim Ferreira",
         "complemento":  "",
         "unidade":  "",
-        "bairro":  "TriÃ¢ngulo",
+        "bairro":  "Triângulo",
         "localidade":  "Carangola",
         "uf":  "MG"
     },
@@ -4654,7 +4195,7 @@
     },
     {
         "cep":  "36801-004",
-        "logradouro":  "Travessa Luis AmÃ©rico Bertolaci",
+        "logradouro":  "Travessa Luis Américo Bertolaci",
         "complemento":  "",
         "unidade":  "",
         "bairro":  "Amendoeira",
@@ -4693,7 +4234,7 @@
         "logradouro":  "Travessa Moreira Carneiro",
         "complemento":  "",
         "unidade":  "",
-        "bairro":  "Caixa D\u0027Ãgua",
+        "bairro":  "Caixa D\u0027Água",
         "localidade":  "Carangola",
         "uf":  "MG"
     },
@@ -4703,15 +4244,6 @@
         "complemento":  "",
         "unidade":  "",
         "bairro":  "Santa Maria",
-        "localidade":  "Carangola",
-        "uf":  "MG"
-    },
-    {
-        "cep":  "36803-160",
-        "logradouro":  "Travessa Nossa Senhora das GraÃ§as",
-        "complemento":  "",
-        "unidade":  "",
-        "bairro":  "TriÃ¢ngulo",
         "localidade":  "Carangola",
         "uf":  "MG"
     },
@@ -4729,16 +4261,7 @@
         "logradouro":  "Travessa Nossa Senhora do Amparo",
         "complemento":  "",
         "unidade":  "",
-        "bairro":  "TriÃ¢ngulo",
-        "localidade":  "Carangola",
-        "uf":  "MG"
-    },
-    {
-        "cep":  "36800-024",
-        "logradouro":  "Travessa Nossa Senhora do Monte LÃ­bano",
-        "complemento":  "",
-        "unidade":  "",
-        "bairro":  "Centro",
+        "bairro":  "Triângulo",
         "localidade":  "Carangola",
         "uf":  "MG"
     },
@@ -4765,16 +4288,7 @@
         "logradouro":  "Travessa Oziel Tourinho de Souza",
         "complemento":  "",
         "unidade":  "",
-        "bairro":  "TriÃ¢ngulo",
-        "localidade":  "Carangola",
-        "uf":  "MG"
-    },
-    {
-        "cep":  "36801-036",
-        "logradouro":  "Travessa Padre JosÃ© Lucas",
-        "complemento":  "",
-        "unidade":  "",
-        "bairro":  "Amendoeira",
+        "bairro":  "Triângulo",
         "localidade":  "Carangola",
         "uf":  "MG"
     },
@@ -4789,10 +4303,10 @@
     },
     {
         "cep":  "36803-132",
-        "logradouro":  "Travessa ParaÃ­so",
+        "logradouro":  "Travessa Paraíso",
         "complemento":  "",
         "unidade":  "",
-        "bairro":  "TriÃ¢ngulo",
+        "bairro":  "Triângulo",
         "localidade":  "Carangola",
         "uf":  "MG"
     },
@@ -4819,7 +4333,7 @@
         "logradouro":  "Travessa Rubens Cancela",
         "complemento":  "",
         "unidade":  "",
-        "bairro":  "Caixa D\u0027Ãgua",
+        "bairro":  "Caixa D\u0027Água",
         "localidade":  "Carangola",
         "uf":  "MG"
     },
@@ -4843,15 +4357,6 @@
     },
     {
         "cep":  "36801-056",
-        "logradouro":  "Travessa Santo AntÃ´nio",
-        "complemento":  "",
-        "unidade":  "",
-        "bairro":  "Santo Onofre",
-        "localidade":  "Carangola",
-        "uf":  "MG"
-    },
-    {
-        "cep":  "36801-056",
         "logradouro":  "Travessa Santo Antônio",
         "complemento":  "",
         "unidade":  "",
@@ -4861,7 +4366,7 @@
     },
     {
         "cep":  "36800-066",
-        "logradouro":  "Travessa SebastiÃ£o Augusto Carneiro",
+        "logradouro":  "Travessa Sebastião Augusto Carneiro",
         "complemento":  "",
         "unidade":  "",
         "bairro":  "Centro",
@@ -4870,7 +4375,7 @@
     },
     {
         "cep":  "36801-030",
-        "logradouro":  "Travessa SebastiÃ£o Frossard",
+        "logradouro":  "Travessa Sebastião Frossard",
         "complemento":  "",
         "unidade":  "",
         "bairro":  "Amendoeira",
@@ -4879,7 +4384,7 @@
     },
     {
         "cep":  "36800-044",
-        "logradouro":  "Travessa SebastiÃ£o GuimarÃ£es de Paula",
+        "logradouro":  "Travessa Sebastião Guimarães de Paula",
         "complemento":  "",
         "unidade":  "",
         "bairro":  "Centro",
@@ -4888,7 +4393,7 @@
     },
     {
         "cep":  "36801-044",
-        "logradouro":  "Travessa SilvÃ©ria EuzÃ©bia Rabelo",
+        "logradouro":  "Travessa Silvéria Euzébia Rabelo",
         "complemento":  "",
         "unidade":  "",
         "bairro":  "Amendoeira",
@@ -4906,7 +4411,7 @@
     },
     {
         "cep":  "36805-008",
-        "logradouro":  "Travessa ThemÃ­stocles Loyola",
+        "logradouro":  "Travessa Themístocles Loyola",
         "complemento":  "",
         "unidade":  "",
         "bairro":  "Varginha (Lacerdinha)",
@@ -4918,7 +4423,7 @@
         "logradouro":  "Travessa Treze de Dezembro",
         "complemento":  "",
         "unidade":  "",
-        "bairro":  "TriÃ¢ngulo",
+        "bairro":  "Triângulo",
         "localidade":  "Carangola",
         "uf":  "MG"
     },
@@ -4945,7 +4450,7 @@
         "logradouro":  "Travessa Vicente Celestino",
         "complemento":  "",
         "unidade":  "",
-        "bairro":  "Santa EmÃ­lia",
+        "bairro":  "Santa Emília",
         "localidade":  "Carangola",
         "uf":  "MG"
     },
@@ -4954,16 +4459,7 @@
         "logradouro":  "Travessa Vista Alegre",
         "complemento":  "",
         "unidade":  "",
-        "bairro":  "TriÃ¢ngulo",
-        "localidade":  "Carangola",
-        "uf":  "MG"
-    },
-    {
-        "cep":  "36800-166",
-        "logradouro":  "Vila AntÃ´nio Coelho",
-        "complemento":  "",
-        "unidade":  "",
-        "bairro":  "Caixa D\u0027Ãgua",
+        "bairro":  "Triângulo",
         "localidade":  "Carangola",
         "uf":  "MG"
     },
@@ -4997,15 +4493,6 @@
     {
         "cep":  "36800-096",
         "logradouro":  "Vila Erlli",
-        "complemento":  "",
-        "unidade":  "",
-        "bairro":  "Centro",
-        "localidade":  "Carangola",
-        "uf":  "MG"
-    },
-    {
-        "cep":  "36800-108",
-        "logradouro":  "Vila JÃºlio Silva",
         "complemento":  "",
         "unidade":  "",
         "bairro":  "Centro",
