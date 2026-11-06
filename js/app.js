@@ -90,6 +90,14 @@ document.addEventListener("DOMContentLoaded", () => {
     if (norm.startsWith("rua ")) return "Rua";
     if (norm.startsWith("avenida ")) return "Avenida";
     if (norm.startsWith("praca ")) return "Praça";
+    if (norm.startsWith("travessa ")) return "Travessa";
+    if (norm.startsWith("beco ")) return "Beco";
+    if (norm.startsWith("alameda ")) return "Alameda";
+    if (norm.startsWith("rodovia ")) return "Rodovia";
+    if (norm.startsWith("ladeira ")) return "Ladeira";
+    if (norm.startsWith("estrada ")) return "Estrada";
+    if (norm.startsWith("largo ")) return "Largo";
+    if (norm.startsWith("vila ")) return "Vila";
     return "Logradouro";
   }
 
@@ -265,12 +273,17 @@ document.addEventListener("DOMContentLoaded", () => {
       if (idx === indiceAtivo) {
         el.classList.add("is-active");
         el.setAttribute("aria-selected", "true");
+        searchInput.setAttribute("aria-activedescendant", el.id);
         el.scrollIntoView({ block: "nearest" });
       } else {
         el.classList.remove("is-active");
         el.setAttribute("aria-selected", "false");
       }
     });
+
+    if (indiceAtivo < 0) {
+      searchInput.removeAttribute("aria-activedescendant");
+    }
   }
 
   /**
@@ -300,7 +313,7 @@ document.addEventListener("DOMContentLoaded", () => {
       li.innerHTML = `
         <span class="suggestion-main">${destacarTermo(item.logradouro, termoNormalizado)}</span>
         <span class="suggestion-sub">
-          <span>${escaparHtml(detalhesSecundarios || item.localidade)}</span>
+          <span>${destacarTermo(detalhesSecundarios || item.localidade, termoNormalizado)}</span>
           <span class="suggestion-cep-tag">${escaparHtml(item.cep)}</span>
         </span>
       `;
@@ -319,6 +332,7 @@ document.addEventListener("DOMContentLoaded", () => {
     sugestoesAtuais = [];
     indiceAtivo = -1;
     searchInput.setAttribute("aria-expanded", "false");
+    searchInput.removeAttribute("aria-activedescendant");
   }
 
   /**

@@ -367,7 +367,8 @@ a:hover {
   color: var(--color-navy-900);
 }
 
-.suggestion-main mark {
+.suggestion-main mark,
+.suggestion-sub mark {
   background-color: #fef08a;
   color: var(--color-navy-900);
   padding: 0 2px;
